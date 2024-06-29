@@ -1,2 +1,2 @@
-# BreadDoughHelper
-An R Shiny app to help measure out bread dough recipes.
+# Bread Dough Calculator
+An R Shiny app to help weigh out bread dough recipes.

@@ -189,22 +189,22 @@ setcolorder(
 setorder(dt, ingredient, target_uom)
 
 # classification tags
-dt[,flour_tag:=str_detect(ingredient,regex("flour|cornmeal",ignore_case=TRUE))]
+dt[,flours_tag:=str_detect(ingredient,regex("flour|cornmeal",ignore_case=TRUE))]
 dt[,fats_tag:=str_detect(ingredient,regex("oil|lard|shortening",ignore_case=TRUE))]
-dt[,butter_tag:=str_detect(ingredient,regex("butter",ignore_case=TRUE))]
-dt[,nut_tag:=str_detect(ingredient,regex("almond|cacao nibs|cashew|grape nut|hazelnut|macadamia nut|marzipan|peanuts|pine nut|pistachio nut|walnut",ignore_case=TRUE))]
-dt[,fruit_tag:=str_detect(ingredient,regex("apple|apricot|banana|berries|berry|cherries|cherry|cranberr|dates|fruit|guava|lemon|lime|orange",ignore_case=TRUE))]
-dt[,chocolate_tag:=str_detect(ingredient,regex("chocolate|cacao nibs",ignore_case=TRUE))]
-dt[,coconut_tag:=str_detect(ingredient,regex("coconut",ignore_case=TRUE))]
+dt[,butters_tag:=str_detect(ingredient,regex("butter",ignore_case=TRUE))]
+dt[,nuts_tag:=str_detect(ingredient,regex("almond|cacao nibs|cashew|grape nut|hazelnut|macadamia nut|marzipan|peanuts|pine nut|pistachio nut|walnut",ignore_case=TRUE))]
+dt[,fruits_tag:=str_detect(ingredient,regex("apple|apricot|banana|berries|berry|cherries|cherry|cranberr|dates|fruit|guava|lemon|lime|orange",ignore_case=TRUE))]
+dt[,chocolates_tag:=str_detect(ingredient,regex("chocolate|cacao nibs",ignore_case=TRUE))]
+dt[,coconuts_tag:=str_detect(ingredient,regex("coconut",ignore_case=TRUE))]
 dt[,gf_tag:=str_detect(ingredient,regex("gluten-free",ignore_case=TRUE))]
-dt[,veg_tag:=str_detect(ingredient,regex("basil|bell pepper|carrot|celery|chives|corn \\(fresh or frozen\\)|garlic|leeks|mushroom|onion|potato|pumpkin|scallion|tomato|zucchini",ignore_case=TRUE))]
-dt[,sugar_tag:=str_detect(ingredient,regex("agave|caramel|honey|marshmallow|molasses|sugar",ignore_case=TRUE))]
+dt[,veggies_tag:=str_detect(ingredient,regex("basil|bell pepper|carrot|celery|chives|corn \\(fresh or frozen\\)|garlic|leeks|mushroom|onion|potato|pumpkin|scallion|tomato|zucchini",ignore_case=TRUE))]
+dt[,sugars_tag:=str_detect(ingredient,regex("agave|caramel|honey|marshmallow|molasses|sugar",ignore_case=TRUE))]
 dt[,dairy_tag:=str_detect(ingredient,regex("butter|cheese|cream|fraiche|milk|yogurt",ignore_case=TRUE))]
 dt[,powders_tag:=str_detect(ingredient,regex("baking powder|baking soda|powder",ignore_case=TRUE))]
-dt[,egg_tag:=str_detect(ingredient,regex("egg",ignore_case=TRUE))]
-dt[,seed_tag:=str_detect(ingredient,regex("seed",ignore_case=TRUE))]
-dt[,rice_tag:=str_detect(ingredient,regex("rice",ignore_case=TRUE))]
-dt[,salt_tag:=str_detect(ingredient,regex("salt",ignore_case=TRUE))]
+dt[,eggs_tag:=str_detect(ingredient,regex("egg",ignore_case=TRUE))]
+dt[,seeds_tag:=str_detect(ingredient,regex("seed",ignore_case=TRUE))]
+dt[,rices_tag:=str_detect(ingredient,regex("rice",ignore_case=TRUE))]
+dt[,salts_tag:=str_detect(ingredient,regex("salt",ignore_case=TRUE))]
 
 fwrite(dt,"King Arthur Volumetric Conversions - Cleaned.csv",)
 

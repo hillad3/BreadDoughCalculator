@@ -1,627 +1,627 @@
-ingredient,default_vol_amt,default_vol_unit,vol_conv_factor_to_cups,target_uom,target_quantity
-'00' Pizza Flour,1,cup,1,gram,116
-'00' Pizza Flour,1,cup,1,ounce,4
-Agave syrup,0.25,cup,1,gram,336
-Agave syrup,0.25,cup,1,ounce,12
-All-Purpose Flour,1,cup,1,gram,120
-All-Purpose Flour,1,cup,1,ounce,4.25
-Almond Flour,1,cup,1,gram,96
-Almond Flour,1,cup,1,ounce,3.375
-Almond butter,0.25,cup,1,gram,272
-Almond butter,0.25,cup,1,ounce,9.33333333333333
-Almond meal,1,cup,1,gram,84
-Almond meal,1,cup,1,ounce,3
-Almond paste (packed),1,cup,1,gram,259
-Almond paste (packed),1,cup,1,ounce,9.125
-Almonds (sliced),0.5,cup,1,gram,86
-Almonds (sliced),0.5,cup,1,ounce,3
-Almonds (slivered),0.5,cup,1,gram,114
-Almonds (slivered),0.5,cup,1,ounce,4
-"Almonds, whole (unblanched)",1,cup,1,gram,142
-"Almonds, whole (unblanched)",1,cup,1,ounce,5
-Amaranth flour,1,cup,1,gram,103
-Amaranth flour,1,cup,1,ounce,3.625
-Apple juice concentrate,0.25,cup,1,gram,280
-Apple juice concentrate,0.25,cup,1,ounce,10
-"Apples (dried, diced)",1,cup,1,gram,85
-"Apples (dried, diced)",1,cup,1,ounce,3
-"Apples (peeled, sliced)",1,cup,1,gram,113
-"Apples (peeled, sliced)",1,cup,1,ounce,4
-Applesauce,1,cup,1,gram,255
-Applesauce,1,cup,1,ounce,9
-"Apricots (dried, diced)",0.5,cup,1,gram,128
-"Apricots (dried, diced)",0.5,cup,1,ounce,4.5
-Artisan Bread Flour,1,cup,1,gram,120
-Artisan Bread Flour,1,cup,1,ounce,4.25
-Artisan Bread Topping,0.25,cup,1,gram,172
-Artisan Bread Topping,0.25,cup,1,ounce,6
-Baker's Cinnamon Filling,1,cup,1,gram,152
-Baker's Cinnamon Filling,1,cup,1,ounce,5.375
-Baker's Fruit Blend,1,cup,1,gram,128
-Baker's Fruit Blend,1,cup,1,ounce,4.5
-"Baker's Special Sugar (superfine sugar, castor sugar)",1,cup,1,gram,190
-"Baker's Special Sugar (superfine sugar, castor sugar)",1,cup,1,ounce,6.75
-Baking Sugar Alternative,1,cup,1,gram,170
-Baking Sugar Alternative,1,cup,1,ounce,6
-Baking powder,1,teaspoon,48,gram,192
-Baking powder,1,teaspoon,48,ounce,8
-Baking soda,0.5,teaspoon,48,gram,288
-Baking soda,0.5,teaspoon,48,ounce,9.6
-Bananas (mashed),1,cup,1,gram,227
-Bananas (mashed),1,cup,1,ounce,8
-Barley (cooked),1,cup,1,gram,215
-Barley (cooked),1,cup,1,ounce,7.625
-Barley (pearled),1,cup,1,gram,213
-Barley (pearled),1,cup,1,ounce,7.5
-Barley flakes,0.5,cup,1,gram,92
-Barley flakes,0.5,cup,1,ounce,3.25
-Barley flour,1,cup,1,gram,85
-Barley flour,1,cup,1,ounce,3
-Barley malt syrup,2,tablespoon,16,gram,336
-Barley malt syrup,2,tablespoon,16,ounce,12
-Basil pesto,2,tablespoon,16,gram,224
-Basil pesto,2,tablespoon,16,ounce,8
-Bell peppers (fresh),1,cup,1,gram,142
-Bell peppers (fresh),1,cup,1,ounce,5
-Berries (frozen),1,cup,1,gram,142
-Berries (frozen),1,cup,1,ounce,5
-Better Cheddar Cheese Powder,0.5,cup,1,gram,114
-Better Cheddar Cheese Powder,0.5,cup,1,ounce,4
-Blueberries (dried),1,cup,1,gram,156
-Blueberries (dried),1,cup,1,ounce,5.5
-Blueberries (fresh or frozen),1,cup,1,gram,155
-Blueberries (fresh or frozen),1,cup,1,ounce,5.5
-Blueberry juice,1,cup,1,gram,241
-Blueberry juice,1,cup,1,ounce,8.5
-Boiled cider,0.25,cup,1,gram,340
-Boiled cider,0.25,cup,1,ounce,12
-Bran cereal,1,cup,1,gram,60
-Bran cereal,1,cup,1,ounce,2.125
-Bread Flour,1,cup,1,gram,120
-Bread Flour,1,cup,1,ounce,4.25
-Bread crumbs (Japanese Panko),1,cup,1,gram,50
-Bread crumbs (Japanese Panko),1,cup,1,ounce,1.75
-Bread crumbs (dried),0.25,cup,1,gram,112
-Bread crumbs (dried),0.25,cup,1,ounce,4
-Bread crumbs (fresh),0.25,cup,1,gram,84
-Bread crumbs (fresh),0.25,cup,1,ounce,3
-Brown rice (cooked),1,cup,1,gram,170
-Brown rice (cooked),1,cup,1,ounce,6
-Brown rice flour,1,cup,1,gram,128
-Brown rice flour,1,cup,1,ounce,4.5
-"Brown sugar (dark or light, packed)",1,cup,1,gram,213
-"Brown sugar (dark or light, packed)",1,cup,1,ounce,7.5
-Buckwheat (whole),1,cup,1,gram,170
-Buckwheat (whole),1,cup,1,ounce,6
-Buckwheat Flour,1,cup,1,gram,120
-Buckwheat Flour,1,cup,1,ounce,4.25
-Bulgur,1,cup,1,gram,152
-Bulgur,1,cup,1,ounce,5.375
-Butter,8,tablespoon,16,gram,226
-Butter,8,tablespoon,16,ounce,8
-Buttermilk,1,cup,1,gram,227
-Buttermilk,1,cup,1,ounce,8
-Buttermilk powder,2,tablespoon,16,gram,144
-Buttermilk powder,2,tablespoon,16,ounce,5.33333333333333
-Cacao nibs,1,cup,1,gram,120
-Cacao nibs,1,cup,1,ounce,4.25
-Cake Enhancer,2,tablespoon,16,gram,112
-Cake Enhancer,2,tablespoon,16,ounce,4
-Candied Lemon Peel,0.25,cup,1,gram,148
-Candied Lemon Peel,0.25,cup,1,ounce,5.33333333333333
-Candied Orange Peel,0.25,cup,1,gram,100
-Candied Orange Peel,0.25,cup,1,ounce,3.5
-"Caramel (14-16 individual pieces, 1"""" squares)",0.5,cup,1,gram,284
-"Caramel (14-16 individual pieces, 1"""" squares)",0.5,cup,1,ounce,10
-Caramel bits (chopped Heath or toffee),1,cup,1,gram,156
-Caramel bits (chopped Heath or toffee),1,cup,1,ounce,5.5
-Caraway seeds,2,tablespoon,16,gram,144
-Caraway seeds,2,tablespoon,16,ounce,5
-Carrots (cooked and puréed),0.5,cup,1,gram,256
-Carrots (cooked and puréed),0.5,cup,1,ounce,9
-Carrots (diced),1,cup,1,gram,142
-Carrots (diced),1,cup,1,ounce,5
-Carrots (grated),1,cup,1,gram,99
-Carrots (grated),1,cup,1,ounce,3.5
-Cashews (chopped),1,cup,1,gram,113
-Cashews (chopped),1,cup,1,ounce,4
-Cashews (whole),1,cup,1,gram,113
-Cashews (whole),1,cup,1,ounce,4
-Celery (diced),1,cup,1,gram,142
-Celery (diced),1,cup,1,ounce,5
-Cheese (Feta),0.5,cup,1,gram,114
-Cheese (Feta),0.5,cup,1,ounce,4
-Cheese (Ricotta),1,cup,1,gram,227
-Cheese (Ricotta),1,cup,1,ounce,8
-Cheese (grated Parmesan),0.5,cup,1,gram,100
-Cheese (grated Parmesan),0.5,cup,1,ounce,3.5
-"Cheese (grated cheddar, jack, mozzarella, or Swiss)",1,cup,1,gram,113
-"Cheese (grated cheddar, jack, mozzarella, or Swiss)",1,cup,1,ounce,4
-Cherries (candied),0.25,cup,1,gram,200
-Cherries (candied),0.25,cup,1,ounce,7
-Cherries (dried),0.5,cup,1,gram,142
-Cherries (dried),0.5,cup,1,ounce,5
-"Cherries (fresh, pitted, chopped)",0.5,cup,1,gram,160
-"Cherries (fresh, pitted, chopped)",0.5,cup,1,ounce,5.75
-Cherries (frozen),1,cup,1,gram,113
-Cherries (frozen),1,cup,1,ounce,4
-Cherry Concentrate,2,tablespoon,16,gram,336
-Cherry Concentrate,2,tablespoon,16,ounce,12
-Chia seeds,0.25,cup,1,gram,148
-Chia seeds,0.25,cup,1,ounce,5.33333333333333
-Chickpea flour,1,cup,1,gram,85
-Chickpea flour,1,cup,1,ounce,3
-Chives (fresh),0.5,cup,1,gram,42
-Chives (fresh),0.5,cup,1,ounce,1.5
-Chocolate (chopped),1,cup,1,gram,170
-Chocolate (chopped),1,cup,1,ounce,6
-Chocolate Chips,1,cup,1,gram,170
-Chocolate Chips,1,cup,1,ounce,6
-Chocolate Chunks,1,cup,1,gram,170
-Chocolate Chunks,1,cup,1,ounce,6
-Cinnamon Sweet Bits,0.25,cup,1,gram,140
-Cinnamon Sweet Bits,0.25,cup,1,ounce,5
-Cinnamon-Sugar,0.25,cup,1,gram,200
-Cinnamon-Sugar,0.25,cup,1,ounce,7
-Climate Blend Flour,1,cup,1,gram,115
-Climate Blend Flour,1,cup,1,ounce,4
-Cocoa (unsweetened),0.5,cup,1,gram,84
-Cocoa (unsweetened),0.5,cup,1,ounce,3
-"Coconut (sweetened, shredded)",1,cup,1,gram,85
-"Coconut (sweetened, shredded)",1,cup,1,ounce,3
-Coconut (toasted),1,cup,1,gram,85
-Coconut (toasted),1,cup,1,ounce,3
-"Coconut (unsweetened, desiccated)",1,cup,1,gram,85
-"Coconut (unsweetened, desiccated)",1,cup,1,ounce,3
-"Coconut (unsweetened, large flakes)",1,cup,1,gram,60
-"Coconut (unsweetened, large flakes)",1,cup,1,ounce,2.125
-"Coconut (unsweetened, shredded)",1,cup,1,gram,53
-"Coconut (unsweetened, shredded)",1,cup,1,ounce,1.875
-Coconut Flour,1,cup,1,gram,128
-Coconut Flour,1,cup,1,ounce,4.5
-Coconut Milk Powder,0.5,cup,1,gram,114
-Coconut Milk Powder,0.5,cup,1,ounce,4
-Coconut cream (unsweetened),1,cup,1,gram,284
-Coconut cream (unsweetened),1,cup,1,ounce,10
-Coconut milk (evaporated),1,cup,1,gram,242
-Coconut milk (evaporated),1,cup,1,ounce,8.5
-"Coconut milk; canned, well shaken",1,cup,1,gram,241
-"Coconut milk; canned, well shaken",1,cup,1,ounce,8.5
-Coconut oil,0.5,cup,1,gram,226
-Coconut oil,0.5,cup,1,ounce,8
-Coconut sugar,0.5,cup,1,gram,154
-Coconut sugar,0.5,cup,1,ounce,5.5
-Confectioners' sugar (unsifted),2,cup,1,gram,113.5
-Confectioners' sugar (unsifted),2,cup,1,ounce,4
-Cookie butter,0.25,cup,1,gram,288
-Cookie butter,0.25,cup,1,ounce,10
-Cookie crumbs,1,cup,1,gram,85
-Cookie crumbs,1,cup,1,ounce,3
-Corn (fresh or frozen),0.25,cup,1,gram,152
-Corn (fresh or frozen),0.25,cup,1,ounce,5.33333333333333
-Corn (popped),4,cup,1,gram,5.25
-Corn (popped),4,cup,1,ounce,0.1875
-Corn syrup,1,cup,1,gram,312
-Corn syrup,1,cup,1,ounce,11
-Cornmeal (whole),1,cup,1,gram,138
-Cornmeal (whole),1,cup,1,ounce,4.875
-"Cornmeal (yellow, Quaker)",1,cup,1,gram,156
-"Cornmeal (yellow, Quaker)",1,cup,1,ounce,5.5
-Cornstarch,0.25,cup,1,gram,112
-Cornstarch,0.25,cup,1,ounce,4
-Cracked wheat,1,cup,1,gram,149
-Cracked wheat,1,cup,1,ounce,5.25
-Cranberries (dried),0.5,cup,1,gram,114
-Cranberries (dried),0.5,cup,1,ounce,4
-Cranberries (fresh or frozen),1,cup,1,gram,99
-Cranberries (fresh or frozen),1,cup,1,ounce,3.5
-"Cream (heavy cream, light cream, or half & half)",1,cup,1,gram,227
-"Cream (heavy cream, light cream, or half & half)",1,cup,1,ounce,8
-Cream cheese,1,cup,1,gram,227
-Cream cheese,1,cup,1,ounce,8
-Cream of coconut,0.5,cup,1,gram,284
-Cream of coconut,0.5,cup,1,ounce,10
-Crystallized ginger,0.5,cup,1,gram,184
-Crystallized ginger,0.5,cup,1,ounce,6.5
-Crème fraiche,0.5,cup,1,gram,248
-Crème fraiche,0.5,cup,1,ounce,8.66666666666667
-Currants,1,cup,1,gram,142
-Currants,1,cup,1,ounce,5
-Dates (chopped),1,cup,1,gram,149
-Dates (chopped),1,cup,1,ounce,5.25
-Demerara sugar,1,cup,1,gram,220
-Demerara sugar,1,cup,1,ounce,7.75
-Dried Blueberry Powder,0.25,cup,1,gram,112
-Dried Blueberry Powder,0.25,cup,1,ounce,4
-Dried milk (Baker's Special Dry Milk),0.25,cup,1,gram,112
-Dried milk (Baker's Special Dry Milk),0.25,cup,1,ounce,4
-Dried nonfat milk (powdered),0.25,cup,1,gram,112
-Dried nonfat milk (powdered),0.25,cup,1,ounce,4
-Dried potato flakes (instant mashed potatoes),0.5,cup,1,gram,86
-Dried potato flakes (instant mashed potatoes),0.5,cup,1,ounce,3
-Dried whole milk (powdered),0.5,cup,1,gram,100
-Dried whole milk (powdered),0.5,cup,1,ounce,3.5
-Durum Flour,1,cup,1,gram,124
-Durum Flour,1,cup,1,ounce,4.375
-Easy Roll Dough Improver,2,tablespoon,16,gram,144
-Easy Roll Dough Improver,2,tablespoon,16,ounce,5
-Egg (fresh),1,large egg,4,gram,200
-Egg (fresh),1,large egg,4,ounce,7
-Egg white (fresh),1,large egg,4,gram,140
-Egg white (fresh),1,large egg,4,ounce,5
-Egg whites (dried),2,tablespoon,16,gram,88
-Egg whites (dried),2,tablespoon,16,ounce,3
-Egg yolk (fresh),1,large egg,4,gram,56
-Egg yolk (fresh),1,large egg,4,ounce,2
-Espresso Powder,1,tablespoon,16,gram,112
-Espresso Powder,1,tablespoon,16,ounce,4
-Everything Bagel Topping,0.25,cup,1,gram,140
-Everything Bagel Topping,0.25,cup,1,ounce,5
-"Figs (dried, chopped)",1,cup,1,gram,149
-"Figs (dried, chopped)",1,cup,1,ounce,5.25
-First Clear Flour,1,cup,1,gram,106
-First Clear Flour,1,cup,1,ounce,3.75
-Flax meal,0.5,cup,1,gram,100
-Flax meal,0.5,cup,1,ounce,3.5
-Flaxseed,0.25,cup,1,gram,140
-Flaxseed,0.25,cup,1,ounce,5
-Formaggio Italiano Cheese and Herb Blend,0.25,cup,1,gram,120
-Formaggio Italiano Cheese and Herb Blend,0.25,cup,1,ounce,4
-French-Style Flour,1,cup,1,gram,120
-French-Style Flour,1,cup,1,ounce,4.25
-Fruitcake Fruit Blend,1,cup,1,gram,120
-Fruitcake Fruit Blend,1,cup,1,ounce,4.25
-"Garlic (cloves, in skin for roasting)",1,large head,3,gram,339
-"Garlic (cloves, in skin for roasting)",1,large head,3,ounce,12
-Garlic (minced),2,tablespoon,16,gram,224
-Garlic (minced),2,tablespoon,16,ounce,8
-Garlic (peeled and sliced),1,cup,1,gram,149
-Garlic (peeled and sliced),1,cup,1,ounce,5.25
-Ghee,0.25,cup,1,gram,176
-Ghee,0.25,cup,1,ounce,6
-"Ginger (fresh, sliced)",0.25,cup,1,gram,228
-"Ginger (fresh, sliced)",0.25,cup,1,ounce,8
-Gluten-Free All-Purpose Baking Mix,1,cup,1,gram,120
-Gluten-Free All-Purpose Baking Mix,1,cup,1,ounce,4.25
-Gluten-Free All-Purpose Flour,1,cup,1,gram,156
-Gluten-Free All-Purpose Flour,1,cup,1,ounce,5.5
-Gluten-Free Bread Flour,1,cup,1,gram,120
-Gluten-Free Bread Flour,1,cup,1,ounce,4.25
-Gluten-Free Measure for Measure Flour,1,cup,1,gram,120
-Gluten-Free Measure for Measure Flour,1,cup,1,ounce,4.25
-Gluten-Free Pizza Flour,1,cup,1,gram,100
-Gluten-Free Pizza Flour,1,cup,1,ounce,3.5
-Gluten-Free sourdough starter (made with Gluten-Free Bread Flour),1,cup,1,gram,177.5
-Gluten-Free sourdough starter (made with Gluten-Free Bread Flour),1,cup,1,ounce,6.25
-Gluten-Free sourdough starter (made with Gluten-Free Measure for Measure Flour),1,cup,1,gram,234
-Gluten-Free sourdough starter (made with Gluten-Free Measure for Measure Flour),1,cup,1,ounce,8.25
-Glutinous rice flour,1,cup,1,gram,120
-Glutinous rice flour,1,cup,1,ounce,4.25
-Graham cracker crumbs (store-bought or crushed from whole),1,cup,1,gram,100
-Graham cracker crumbs (store-bought or crushed from whole),1,cup,1,ounce,3.5
-Granola,1,cup,1,gram,113
-Granola,1,cup,1,ounce,4
-Grape Nuts,0.5,cup,1,gram,114
-Grape Nuts,0.5,cup,1,ounce,4
-Guava paste,0.25,cup,1,gram,400
-Guava paste,0.25,cup,1,ounce,14
-Harvest Grains Blend,0.5,cup,1,gram,148
-Harvest Grains Blend,0.5,cup,1,ounce,5.25
-Hazelnut Praline Paste,0.5,cup,1,gram,312
-Hazelnut Praline Paste,0.5,cup,1,ounce,11
-Hazelnut flour,1,cup,1,gram,89
-Hazelnut flour,1,cup,1,ounce,3.125
-Hazelnut spread,0.5,cup,1,gram,320
-Hazelnut spread,0.5,cup,1,ounce,11.25
-Hazelnuts (whole),1,cup,1,gram,142
-Hazelnuts (whole),1,cup,1,ounce,5
-Hi-Maize Natural Fiber,0.25,cup,1,gram,128
-Hi-Maize Natural Fiber,0.25,cup,1,ounce,4.5
-High-Gluten Flour,1,cup,1,gram,120
-High-Gluten Flour,1,cup,1,ounce,4.25
-Honey,1,tablespoon,16,gram,336
-Honey,1,tablespoon,16,ounce,12
-Instant ClearJel,1,tablespoon,16,gram,176
-Instant ClearJel,1,tablespoon,16,ounce,6
-Irish-Style Flour,1,cup,1,gram,110
-Irish-Style Flour,1,cup,1,ounce,3.875
-Italian-Style Flour,1,cup,1,gram,106
-Italian-Style Flour,1,cup,1,ounce,3.75
-Jam or preserves,0.25,cup,1,gram,340
-Jam or preserves,0.25,cup,1,ounce,12
-Jammy Bits,1,cup,1,gram,184
-Jammy Bits,1,cup,1,ounce,6.5
-Keto Wheat Flour,1,cup,1,gram,120
-Keto Wheat Flour,1,cup,1,ounce,4.25
-Keto Wheat Pizza Crust Mix,1,cup,1,gram,110
-Keto Wheat Pizza Crust Mix,1,cup,1,ounce,3.875
-Key Lime Juice,1,cup,1,gram,227
-Key Lime Juice,1,cup,1,ounce,8
-Lard,0.5,cup,1,gram,226
-Lard,0.5,cup,1,ounce,8
-Leeks (diced),1,cup,1,gram,92
-Leeks (diced),1,cup,1,ounce,3.25
-Lemon Crumbles,1,cup,1,gram,180
-Lemon Crumbles,1,cup,1,ounce,6.33333333333333
-Lemon Curd,0.5,cup,1,gram,226
-Lemon Curd,0.5,cup,1,ounce,8
-Lemon Juice Powder,2,tablespoon,16,gram,144
-Lemon Juice Powder,2,tablespoon,16,ounce,5
-Lemon juice,1,tablespoon,16,gram,224
-Lemon juice,1,tablespoon,16,ounce,8
-Lime Juice Powder,2,tablespoon,16,gram,144
-Lime Juice Powder,2,tablespoon,16,ounce,5
-Macadamia nuts (whole),1,cup,1,gram,149
-Macadamia nuts (whole),1,cup,1,ounce,5.25
-Malt syrup,2,tablespoon,16,gram,344
-Malt syrup,2,tablespoon,16,ounce,12
-Malted Milk Powder,0.25,cup,1,gram,140
-Malted Milk Powder,0.25,cup,1,ounce,5
-Malted Wheat Flakes,0.5,cup,1,gram,128
-Malted Wheat Flakes,0.5,cup,1,ounce,4.5
-Maple sugar,0.5,cup,1,gram,156
-Maple sugar,0.5,cup,1,ounce,5.5
-Maple syrup,0.5,cup,1,gram,312
-Maple syrup,0.5,cup,1,ounce,11
-Marshmallow Fluff®,1,cup,1,gram,128
-Marshmallow Fluff®,1,cup,1,ounce,4.5
-"Marshmallow spread, homemade",1,cup,1,gram,72
-"Marshmallow spread, homemade",1,cup,1,ounce,2.5
-"Marshmallow spread, store-bought",1,cup,1,gram,123
-"Marshmallow spread, store-bought",1,cup,1,ounce,4.33333333333333
-Marshmallows (mini),1,cup,1,gram,43
-Marshmallows (mini),1,cup,1,ounce,1.5
-Marzipan,1,cup,1,gram,290
-Marzipan,1,cup,1,ounce,10.125
-Masa Harina,1,cup,1,gram,93
-Masa Harina,1,cup,1,ounce,3.25
-Mascarpone cheese,1,cup,1,gram,227
-Mascarpone cheese,1,cup,1,ounce,8
-Mashed potatoes,1,cup,1,gram,213
-Mashed potatoes,1,cup,1,ounce,7.5
-Mashed sweet potatoes,1,cup,1,gram,240
-Mashed sweet potatoes,1,cup,1,ounce,8.5
-Mayonnaise,0.5,cup,1,gram,226
-Mayonnaise,0.5,cup,1,ounce,8
-Medium Rye Flour,1,cup,1,gram,106
-Medium Rye Flour,1,cup,1,ounce,3.75
-Meringue powder,0.25,cup,1,gram,172
-Meringue powder,0.25,cup,1,ounce,6
-Milk (evaporated),0.5,cup,1,gram,226
-Milk (evaporated),0.5,cup,1,ounce,8
-Milk (fresh),1,cup,1,gram,227
-Milk (fresh),1,cup,1,ounce,8
-Millet (whole),0.5,cup,1,gram,206
-Millet (whole),0.5,cup,1,ounce,7.25
-Mini chocolate chips,1,cup,1,gram,177
-Mini chocolate chips,1,cup,1,ounce,6.25
-Molasses,0.25,cup,1,gram,340
-Molasses,0.25,cup,1,ounce,12
-Mushrooms (sliced),1,cup,1,gram,78
-Mushrooms (sliced),1,cup,1,ounce,2.75
-Non-Diastatic Malt Powder,2,tablespoon,16,gram,144
-Non-Diastatic Malt Powder,2,tablespoon,16,ounce,5
-Oat Flour,1,cup,1,gram,92
-Oat Flour,1,cup,1,ounce,3.25
-Oat bran,0.5,cup,1,gram,106
-Oat bran,0.5,cup,1,ounce,3.75
-Oats (King Arthur Rolled),1,cup,1,gram,113
-Oats (King Arthur Rolled),1,cup,1,ounce,4
-Oats (old-fashioned or quick-cooking),1,cup,1,gram,89
-Oats (old-fashioned or quick-cooking),1,cup,1,ounce,3.125
-Oats (prepared),1,cup,1,gram,147
-Oats (prepared),1,cup,1,ounce,5.125
-Olive oil,0.25,cup,1,gram,200
-Olive oil,0.25,cup,1,ounce,7
-Olives (sliced),1,cup,1,gram,142
-Olives (sliced),1,cup,1,ounce,5
-"Onions (fresh, diced)",1,cup,1,gram,142
-"Onions (fresh, diced)",1,cup,1,ounce,5
-Paleo Baking Flour,1,cup,1,gram,104
-Paleo Baking Flour,1,cup,1,ounce,3.625
-Palm shortening,0.25,cup,1,gram,180
-Palm shortening,0.25,cup,1,ounce,6
-Passion fruit purée,0.333333333333333,cup,1,gram,180
-Passion fruit purée,0.333333333333333,cup,1,ounce,6.375
-Pasta Flour Blend,1,cup,1,gram,145
-Pasta Flour Blend,1,cup,1,ounce,5.125
-Pastry Flour,1,cup,1,gram,106
-Pastry Flour,1,cup,1,ounce,3.75
-Pastry Flour Blend,1,cup,1,gram,113
-Pastry Flour Blend,1,cup,1,ounce,4
-Peaches (peeled and diced),1,cup,1,gram,170
-Peaches (peeled and diced),1,cup,1,ounce,6
-Peanut butter,0.5,cup,1,gram,270
-Peanut butter,0.5,cup,1,ounce,9.5
-"Peanuts (whole, shelled)",1,cup,1,gram,142
-"Peanuts (whole, shelled)",1,cup,1,ounce,5
-Pears (peeled and diced),1,cup,1,gram,163
-Pears (peeled and diced),1,cup,1,ounce,5.75
-Pecan Meal,1,cup,1,gram,80
-Pecan Meal,1,cup,1,ounce,2.75
-Pecans (diced),0.5,cup,1,gram,114
-Pecans (diced),0.5,cup,1,ounce,4
-Pie Filling Enhancer,0.25,cup,1,gram,184
-Pie Filling Enhancer,0.25,cup,1,ounce,6.5
-Pine nuts,0.5,cup,1,gram,142
-Pine nuts,0.5,cup,1,ounce,5
-"Pineapple (crushed, drained)",1,cup,1,gram,256
-"Pineapple (crushed, drained)",1,cup,1,ounce,9
-Pineapple (dried),0.5,cup,1,gram,142
-Pineapple (dried),0.5,cup,1,ounce,5
-"Pineapple (fresh or canned, diced)",1,cup,1,gram,170
-"Pineapple (fresh or canned, diced)",1,cup,1,ounce,6
-Pistachio Paste,0.25,cup,1,gram,312
-Pistachio Paste,0.25,cup,1,ounce,11
-Pistachio nuts (shelled),0.5,cup,1,gram,120
-Pistachio nuts (shelled),0.5,cup,1,ounce,4.25
-Pizza Dough Flavor,2,tablespoon,16,gram,96
-Pizza Dough Flavor,2,tablespoon,16,ounce,2
-Pizza Flour Blend,1,cup,1,gram,124
-Pizza Flour Blend,1,cup,1,ounce,4.375
-Pizza Seasoning,2,tablespoon,16,gram,80
-Pizza Seasoning,2,tablespoon,16,ounce,2.66666666666667
-Pizza sauce,0.25,cup,1,gram,228
-Pizza sauce,0.25,cup,1,ounce,8
-Polenta (coarse ground cornmeal),1,cup,1,gram,163
-Polenta (coarse ground cornmeal),1,cup,1,ounce,5.75
-Poppy seeds,2,tablespoon,16,gram,144
-Poppy seeds,2,tablespoon,16,ounce,5
-Potato Flour,0.25,cup,1,gram,184
-Potato Flour,0.25,cup,1,ounce,6.5
-Potato starch,1,cup,1,gram,152
-Potato starch,1,cup,1,ounce,5.375
-Pumpernickel Flour,1,cup,1,gram,106
-Pumpernickel Flour,1,cup,1,ounce,3.75
-Pumpkin purée,1,cup,1,gram,227
-Pumpkin purée,1,cup,1,ounce,8
-Queso fresco,0.5,cup,1,gram,114
-Queso fresco,0.5,cup,1,ounce,4
-Quinoa (cooked),1,cup,1,gram,184
-Quinoa (cooked),1,cup,1,ounce,6.5
-Quinoa (whole),1,cup,1,gram,177
-Quinoa (whole),1,cup,1,ounce,6.25
-Quinoa flour,1,cup,1,gram,110
-Quinoa flour,1,cup,1,ounce,3.875
-Raisins (loose),1,cup,1,gram,149
-Raisins (loose),1,cup,1,ounce,5.25
-Raisins (packed),0.5,cup,1,gram,170
-Raisins (packed),0.5,cup,1,ounce,6
-Raspberries (fresh),1,cup,1,gram,120
-Raspberries (fresh),1,cup,1,ounce,4.25
-"Rhubarb (sliced, 1/2"""" slices)",1,cup,1,gram,130
-"Rhubarb (sliced, 1/2"""" slices)",1,cup,1,ounce,4.625
-"Rice (long grain, dry)",0.5,cup,1,gram,198
-"Rice (long grain, dry)",0.5,cup,1,ounce,7
-Rice Krispies,1,cup,1,gram,28
-Rice Krispies,1,cup,1,ounce,1
-Rice flour (white),1,cup,1,gram,142
-Rice flour (white),1,cup,1,ounce,5
-Rye Bread Improver,2,tablespoon,16,gram,112
-Rye Bread Improver,2,tablespoon,16,ounce,4
-Rye Chops,1,cup,1,gram,120
-Rye Chops,1,cup,1,ounce,4.25
-Rye Flour Blend,1,cup,1,gram,106
-Rye Flour Blend,1,cup,1,ounce,3.75
-Rye flakes,1,cup,1,gram,124
-Rye flakes,1,cup,1,ounce,4.375
-"Salt (Kosher, Diamond Crystal)",1,tablespoon,16,gram,128
-"Salt (Kosher, Diamond Crystal)",1,tablespoon,16,ounce,12
-"Salt (Kosher, Morton's)",1,tablespoon,16,gram,256
-"Salt (Kosher, Morton's)",1,tablespoon,16,ounce,12
-Salt (table),1,tablespoon,16,gram,288
-Salt (table),1,tablespoon,16,ounce,12
-Scallions (sliced),1,cup,1,gram,64
-Scallions (sliced),1,cup,1,ounce,2.25
-Self-Rising Flour,1,cup,1,gram,113
-Self-Rising Flour,1,cup,1,ounce,4
-Semolina Flour,1,cup,1,gram,163
-Semolina Flour,1,cup,1,ounce,5.75
-Sesame seeds,0.5,cup,1,gram,142
-Sesame seeds,0.5,cup,1,ounce,5
-Shallots (peeled and sliced),1,cup,1,gram,156
-Shallots (peeled and sliced),1,cup,1,ounce,5.5
-Six-Grain Blend,1,cup,1,gram,128
-Six-Grain Blend,1,cup,1,ounce,4.5
-Snow White Non-Melting Topping Sugar,0.5,cup,1,gram,114
-Snow White Non-Melting Topping Sugar,0.5,cup,1,ounce,4
-Sorghum flour,1,cup,1,gram,138
-Sorghum flour,1,cup,1,ounce,4.875
-Sour cream,1,cup,1,gram,227
-Sour cream,1,cup,1,ounce,8
-Sourdough starter,1,cup,1,gram,234
-Sourdough starter,1,cup,1,ounce,8.25
-Soy flour,0.25,cup,1,gram,140
-Soy flour,0.25,cup,1,ounce,5
-Sparkling Sugar,0.25,cup,1,gram,228
-Sparkling Sugar,0.25,cup,1,ounce,8
-Spelt Flour,1,cup,1,gram,99
-Spelt Flour,1,cup,1,ounce,3.5
-Sprouted Wheat Flour,1,cup,1,gram,113
-Sprouted Wheat Flour,1,cup,1,ounce,4
-Steel cut oats,0.5,cup,1,gram,140
-Steel cut oats,0.5,cup,1,ounce,5
-Sticky Bun Sugar,1,cup,1,gram,99
-Sticky Bun Sugar,1,cup,1,ounce,3.5
-Strawberries (fresh sliced),1,cup,1,gram,167
-Strawberries (fresh sliced),1,cup,1,ounce,5.875
-Sugar (granulated white),1,cup,1,gram,198
-Sugar (granulated white),1,cup,1,ounce,7
-Sugar substitute (Splenda),1,cup,1,gram,25
-Sugar substitute (Splenda),1,cup,1,ounce,0.875
-Sundried tomatoes (dry pack),1,cup,1,gram,170
-Sundried tomatoes (dry pack),1,cup,1,ounce,6
-Sunflower seeds,0.25,cup,1,gram,140
-Sunflower seeds,0.25,cup,1,ounce,5
-Super 10 Blend,1,cup,1,gram,106
-Super 10 Blend,1,cup,1,ounce,3.75
-Swedish Pearl Sugar,0.25,cup,1,gram,196
-Swedish Pearl Sugar,0.25,cup,1,ounce,7
-Sweet Ground Chocolate and Cocoa Blend,0.25,cup,1,gram,112
-Sweet Ground Chocolate and Cocoa Blend,0.25,cup,1,ounce,4
-Sweetened condensed coconut milk,1,cup,1,gram,288
-Sweetened condensed coconut milk,1,cup,1,ounce,10.125
-Sweetened condensed milk,0.25,cup,1,gram,312
-Sweetened condensed milk,0.25,cup,1,ounce,11
-Tahini paste,0.5,cup,1,gram,256
-Tahini paste,0.5,cup,1,ounce,9
-Tapioca (quick cooking),2,tablespoon,16,gram,168
-Tapioca (quick cooking),2,tablespoon,16,ounce,6
-Tapioca starch or flour,1,cup,1,gram,113
-Tapioca starch or flour,1,cup,1,ounce,4
-Teff flour,1,cup,1,gram,135
-Teff flour,1,cup,1,ounce,4.75
-The Works Bread Topping,0.25,cup,1,gram,140
-The Works Bread Topping,0.25,cup,1,ounce,5
-Toasted Almond Flour,1,cup,1,gram,96
-Toasted Almond Flour,1,cup,1,ounce,3.375
-Toffee chunks,1,cup,1,gram,156
-Toffee chunks,1,cup,1,ounce,5.5
-Tomato paste,2,tablespoon,16,gram,232
-Tomato paste,2,tablespoon,16,ounce,8
-Tropical Fruit Blend,1,cup,1,gram,135
-Tropical Fruit Blend,1,cup,1,ounce,4.75
-Turbinado sugar (raw),1,cup,1,gram,180
-Turbinado sugar (raw),1,cup,1,ounce,6.375
-Unbleached Cake Flour,1,cup,1,gram,120
-Unbleached Cake Flour,1,cup,1,ounce,4.25
-Vanilla Extract,1,tablespoon,16,gram,224
-Vanilla Extract,1,tablespoon,16,ounce,8
-Vegetable oil,1,cup,1,gram,198
-Vegetable oil,1,cup,1,ounce,7
-Vegetable shortening,0.25,cup,1,gram,184
-Vegetable shortening,0.25,cup,1,ounce,6.5
-Vital Wheat Gluten,2,tablespoon,16,gram,144
-Vital Wheat Gluten,2,tablespoon,16,ounce,5
-Walnuts (chopped),1,cup,1,gram,113
-Walnuts (chopped),1,cup,1,ounce,4
-Walnuts (whole),0.5,cup,1,gram,128
-Walnuts (whole),0.5,cup,1,ounce,4.5
-Water,1,cup,1,gram,227
-Water,1,cup,1,ounce,8
-Wheat berries (red),1,cup,1,gram,184
-Wheat berries (red),1,cup,1,ounce,6.5
-Wheat bran,0.5,cup,1,gram,64
-Wheat bran,0.5,cup,1,ounce,2.25
-Wheat germ,0.25,cup,1,gram,112
-Wheat germ,0.25,cup,1,ounce,4
-White Chocolate Chips,1,cup,1,gram,170
-White Chocolate Chips,1,cup,1,ounce,6
-White Rye Flour,1,cup,1,gram,106
-White Rye Flour,1,cup,1,ounce,3.75
-White Whole Wheat Flour,1,cup,1,gram,113
-White Whole Wheat Flour,1,cup,1,ounce,4
-Whole Grain Flour Blend,1,cup,1,gram,113
-Whole Grain Flour Blend,1,cup,1,ounce,4
-Whole Wheat Flour (Premium 100%),1,cup,1,gram,113
-Whole Wheat Flour (Premium 100%),1,cup,1,ounce,4
-Whole Wheat Pastry Flour / Graham Flour,1,cup,1,gram,96
-Whole Wheat Pastry Flour / Graham Flour,1,cup,1,ounce,3.375
-Yeast (instant),1,tablespoon,16,gram,144
-Yeast (instant),1,tablespoon,16,ounce,5.33333333333333
-Yogurt,1,cup,1,gram,227
-Yogurt,1,cup,1,ounce,8
-Yuletide Cheer Fruit Blend,1,cup,1,gram,130
-Yuletide Cheer Fruit Blend,1,cup,1,ounce,4.5
-Zucchini (shredded),1,cup,1,gram,135.5
-Zucchini (shredded),1,cup,1,ounce,4.75
+ingredient,default_vol_amt,default_vol_unit,vol_conv_factor_to_cups,target_uom,target_quantity,flour_tag,fats_tag,butter_tag,nut_tag,fruit_tag,chocolate_tag,coconut_tag,gf_tag,veg_tag,sugar_tag,dairy_tag,powders_tag,egg_tag,seed_tag,rice_tag,salt_tag
+'00' Pizza Flour,1,cup,1,gram,116,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+'00' Pizza Flour,1,cup,1,ounce,4,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Agave syrup,0.25,cup,1,gram,336,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Agave syrup,0.25,cup,1,ounce,12,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+All-Purpose Flour,1,cup,1,gram,120,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+All-Purpose Flour,1,cup,1,ounce,4.25,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Almond Flour,1,cup,1,gram,96,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Almond Flour,1,cup,1,ounce,3.375,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Almond butter,0.25,cup,1,gram,272,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Almond butter,0.25,cup,1,ounce,9.33333333333333,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Almond meal,1,cup,1,gram,84,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Almond meal,1,cup,1,ounce,3,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Almond paste (packed),1,cup,1,gram,259,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Almond paste (packed),1,cup,1,ounce,9.125,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Almonds (sliced),0.5,cup,1,gram,86,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Almonds (sliced),0.5,cup,1,ounce,3,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Almonds (slivered),0.5,cup,1,gram,114,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Almonds (slivered),0.5,cup,1,ounce,4,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Almonds, whole (unblanched)",1,cup,1,gram,142,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Almonds, whole (unblanched)",1,cup,1,ounce,5,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Amaranth flour,1,cup,1,gram,103,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Amaranth flour,1,cup,1,ounce,3.625,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Apple juice concentrate,0.25,cup,1,gram,280,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Apple juice concentrate,0.25,cup,1,ounce,10,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Apples (dried, diced)",1,cup,1,gram,85,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Apples (dried, diced)",1,cup,1,ounce,3,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Apples (peeled, sliced)",1,cup,1,gram,113,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Apples (peeled, sliced)",1,cup,1,ounce,4,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Applesauce,1,cup,1,gram,255,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Applesauce,1,cup,1,ounce,9,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Apricots (dried, diced)",0.5,cup,1,gram,128,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Apricots (dried, diced)",0.5,cup,1,ounce,4.5,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Artisan Bread Flour,1,cup,1,gram,120,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Artisan Bread Flour,1,cup,1,ounce,4.25,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Artisan Bread Topping,0.25,cup,1,gram,172,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Artisan Bread Topping,0.25,cup,1,ounce,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Baker's Cinnamon Filling,1,cup,1,gram,152,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Baker's Cinnamon Filling,1,cup,1,ounce,5.375,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Baker's Fruit Blend,1,cup,1,gram,128,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Baker's Fruit Blend,1,cup,1,ounce,4.5,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Baker's Special Sugar (superfine sugar, castor sugar)",1,cup,1,gram,190,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Baker's Special Sugar (superfine sugar, castor sugar)",1,cup,1,ounce,6.75,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Baking Sugar Alternative,1,cup,1,gram,170,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Baking Sugar Alternative,1,cup,1,ounce,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Baking powder,1,teaspoon,48,gram,192,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Baking powder,1,teaspoon,48,ounce,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Baking soda,0.5,teaspoon,48,gram,288,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Baking soda,0.5,teaspoon,48,ounce,9.6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Bananas (mashed),1,cup,1,gram,227,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Bananas (mashed),1,cup,1,ounce,8,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Barley (cooked),1,cup,1,gram,215,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Barley (cooked),1,cup,1,ounce,7.625,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Barley (pearled),1,cup,1,gram,213,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Barley (pearled),1,cup,1,ounce,7.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Barley flakes,0.5,cup,1,gram,92,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Barley flakes,0.5,cup,1,ounce,3.25,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Barley flour,1,cup,1,gram,85,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Barley flour,1,cup,1,ounce,3,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Barley malt syrup,2,tablespoon,16,gram,336,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Barley malt syrup,2,tablespoon,16,ounce,12,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Basil pesto,2,tablespoon,16,gram,224,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Basil pesto,2,tablespoon,16,ounce,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Bell peppers (fresh),1,cup,1,gram,142,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Bell peppers (fresh),1,cup,1,ounce,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Berries (frozen),1,cup,1,gram,142,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Berries (frozen),1,cup,1,ounce,5,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Better Cheddar Cheese Powder,0.5,cup,1,gram,114,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Better Cheddar Cheese Powder,0.5,cup,1,ounce,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Blueberries (dried),1,cup,1,gram,156,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Blueberries (dried),1,cup,1,ounce,5.5,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Blueberries (fresh or frozen),1,cup,1,gram,155,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Blueberries (fresh or frozen),1,cup,1,ounce,5.5,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Blueberry juice,1,cup,1,gram,241,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Blueberry juice,1,cup,1,ounce,8.5,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Boiled cider,0.25,cup,1,gram,340,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Boiled cider,0.25,cup,1,ounce,12,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Bran cereal,1,cup,1,gram,60,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Bran cereal,1,cup,1,ounce,2.125,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Bread Flour,1,cup,1,gram,120,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Bread Flour,1,cup,1,ounce,4.25,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Bread crumbs (Japanese Panko),1,cup,1,gram,50,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Bread crumbs (Japanese Panko),1,cup,1,ounce,1.75,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Bread crumbs (dried),0.25,cup,1,gram,112,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Bread crumbs (dried),0.25,cup,1,ounce,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Bread crumbs (fresh),0.25,cup,1,gram,84,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Bread crumbs (fresh),0.25,cup,1,ounce,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Brown rice (cooked),1,cup,1,gram,170,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Brown rice (cooked),1,cup,1,ounce,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Brown rice flour,1,cup,1,gram,128,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Brown rice flour,1,cup,1,ounce,4.5,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+"Brown sugar (dark or light, packed)",1,cup,1,gram,213,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Brown sugar (dark or light, packed)",1,cup,1,ounce,7.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Buckwheat (whole),1,cup,1,gram,170,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Buckwheat (whole),1,cup,1,ounce,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Buckwheat Flour,1,cup,1,gram,120,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Buckwheat Flour,1,cup,1,ounce,4.25,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Bulgur,1,cup,1,gram,152,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Bulgur,1,cup,1,ounce,5.375,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Butter,8,tablespoon,16,gram,226,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Butter,8,tablespoon,16,ounce,8,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Buttermilk,1,cup,1,gram,227,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Buttermilk,1,cup,1,ounce,8,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Buttermilk powder,2,tablespoon,16,gram,144,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Buttermilk powder,2,tablespoon,16,ounce,5.33333333333333,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Cacao nibs,1,cup,1,gram,120,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cacao nibs,1,cup,1,ounce,4.25,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cake Enhancer,2,tablespoon,16,gram,112,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cake Enhancer,2,tablespoon,16,ounce,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Candied Lemon Peel,0.25,cup,1,gram,148,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Candied Lemon Peel,0.25,cup,1,ounce,5.33333333333333,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Candied Orange Peel,0.25,cup,1,gram,100,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Candied Orange Peel,0.25,cup,1,ounce,3.5,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Caramel (14-16 individual pieces, 1"""" squares)",0.5,cup,1,gram,284,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Caramel (14-16 individual pieces, 1"""" squares)",0.5,cup,1,ounce,10,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Caramel bits (chopped Heath or toffee),1,cup,1,gram,156,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Caramel bits (chopped Heath or toffee),1,cup,1,ounce,5.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Caraway seeds,2,tablespoon,16,gram,144,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Caraway seeds,2,tablespoon,16,ounce,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Carrots (cooked and puréed),0.5,cup,1,gram,256,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Carrots (cooked and puréed),0.5,cup,1,ounce,9,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Carrots (diced),1,cup,1,gram,142,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Carrots (diced),1,cup,1,ounce,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Carrots (grated),1,cup,1,gram,99,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Carrots (grated),1,cup,1,ounce,3.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cashews (chopped),1,cup,1,gram,113,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cashews (chopped),1,cup,1,ounce,4,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cashews (whole),1,cup,1,gram,113,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cashews (whole),1,cup,1,ounce,4,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Celery (diced),1,cup,1,gram,142,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Celery (diced),1,cup,1,ounce,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cheese (Feta),0.5,cup,1,gram,114,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cheese (Feta),0.5,cup,1,ounce,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cheese (Ricotta),1,cup,1,gram,227,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cheese (Ricotta),1,cup,1,ounce,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cheese (grated Parmesan),0.5,cup,1,gram,100,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cheese (grated Parmesan),0.5,cup,1,ounce,3.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Cheese (grated cheddar, jack, mozzarella, or Swiss)",1,cup,1,gram,113,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Cheese (grated cheddar, jack, mozzarella, or Swiss)",1,cup,1,ounce,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cherries (candied),0.25,cup,1,gram,200,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cherries (candied),0.25,cup,1,ounce,7,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cherries (dried),0.5,cup,1,gram,142,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cherries (dried),0.5,cup,1,ounce,5,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Cherries (fresh, pitted, chopped)",0.5,cup,1,gram,160,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Cherries (fresh, pitted, chopped)",0.5,cup,1,ounce,5.75,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cherries (frozen),1,cup,1,gram,113,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cherries (frozen),1,cup,1,ounce,4,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cherry Concentrate,2,tablespoon,16,gram,336,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cherry Concentrate,2,tablespoon,16,ounce,12,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Chia seeds,0.25,cup,1,gram,148,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Chia seeds,0.25,cup,1,ounce,5.33333333333333,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Chickpea flour,1,cup,1,gram,85,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Chickpea flour,1,cup,1,ounce,3,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Chives (fresh),0.5,cup,1,gram,42,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Chives (fresh),0.5,cup,1,ounce,1.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Chocolate (chopped),1,cup,1,gram,170,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Chocolate (chopped),1,cup,1,ounce,6,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Chocolate Chips,1,cup,1,gram,170,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Chocolate Chips,1,cup,1,ounce,6,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Chocolate Chunks,1,cup,1,gram,170,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Chocolate Chunks,1,cup,1,ounce,6,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cinnamon Sweet Bits,0.25,cup,1,gram,140,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cinnamon Sweet Bits,0.25,cup,1,ounce,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cinnamon-Sugar,0.25,cup,1,gram,200,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cinnamon-Sugar,0.25,cup,1,ounce,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Climate Blend Flour,1,cup,1,gram,115,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Climate Blend Flour,1,cup,1,ounce,4,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cocoa (unsweetened),0.5,cup,1,gram,84,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cocoa (unsweetened),0.5,cup,1,ounce,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Coconut (sweetened, shredded)",1,cup,1,gram,85,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Coconut (sweetened, shredded)",1,cup,1,ounce,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Coconut (toasted),1,cup,1,gram,85,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Coconut (toasted),1,cup,1,ounce,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Coconut (unsweetened, desiccated)",1,cup,1,gram,85,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Coconut (unsweetened, desiccated)",1,cup,1,ounce,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Coconut (unsweetened, large flakes)",1,cup,1,gram,60,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Coconut (unsweetened, large flakes)",1,cup,1,ounce,2.125,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Coconut (unsweetened, shredded)",1,cup,1,gram,53,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Coconut (unsweetened, shredded)",1,cup,1,ounce,1.875,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Coconut Flour,1,cup,1,gram,128,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Coconut Flour,1,cup,1,ounce,4.5,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Coconut Milk Powder,0.5,cup,1,gram,114,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Coconut Milk Powder,0.5,cup,1,ounce,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Coconut cream (unsweetened),1,cup,1,gram,284,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Coconut cream (unsweetened),1,cup,1,ounce,10,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Coconut milk (evaporated),1,cup,1,gram,242,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Coconut milk (evaporated),1,cup,1,ounce,8.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Coconut milk; canned, well shaken",1,cup,1,gram,241,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Coconut milk; canned, well shaken",1,cup,1,ounce,8.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Coconut oil,0.5,cup,1,gram,226,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Coconut oil,0.5,cup,1,ounce,8,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Coconut sugar,0.5,cup,1,gram,154,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Coconut sugar,0.5,cup,1,ounce,5.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Confectioners' sugar (unsifted),2,cup,1,gram,113.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Confectioners' sugar (unsifted),2,cup,1,ounce,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cookie butter,0.25,cup,1,gram,288,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cookie butter,0.25,cup,1,ounce,10,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cookie crumbs,1,cup,1,gram,85,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cookie crumbs,1,cup,1,ounce,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Corn (fresh or frozen),0.25,cup,1,gram,152,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Corn (fresh or frozen),0.25,cup,1,ounce,5.33333333333333,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Corn (popped),4,cup,1,gram,5.25,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Corn (popped),4,cup,1,ounce,0.1875,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Corn syrup,1,cup,1,gram,312,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Corn syrup,1,cup,1,ounce,11,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cornmeal (whole),1,cup,1,gram,138,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cornmeal (whole),1,cup,1,ounce,4.875,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Cornmeal (yellow, Quaker)",1,cup,1,gram,156,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Cornmeal (yellow, Quaker)",1,cup,1,ounce,5.5,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cornstarch,0.25,cup,1,gram,112,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cornstarch,0.25,cup,1,ounce,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cracked wheat,1,cup,1,gram,149,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cracked wheat,1,cup,1,ounce,5.25,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cranberries (dried),0.5,cup,1,gram,114,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cranberries (dried),0.5,cup,1,ounce,4,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cranberries (fresh or frozen),1,cup,1,gram,99,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cranberries (fresh or frozen),1,cup,1,ounce,3.5,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Cream (heavy cream, light cream, or half & half)",1,cup,1,gram,227,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Cream (heavy cream, light cream, or half & half)",1,cup,1,ounce,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cream cheese,1,cup,1,gram,227,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cream cheese,1,cup,1,ounce,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cream of coconut,0.5,cup,1,gram,284,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Cream of coconut,0.5,cup,1,ounce,10,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Crystallized ginger,0.5,cup,1,gram,184,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Crystallized ginger,0.5,cup,1,ounce,6.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Crème fraiche,0.5,cup,1,gram,248,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Crème fraiche,0.5,cup,1,ounce,8.66666666666667,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Currants,1,cup,1,gram,142,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Currants,1,cup,1,ounce,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Dates (chopped),1,cup,1,gram,149,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Dates (chopped),1,cup,1,ounce,5.25,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Demerara sugar,1,cup,1,gram,220,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Demerara sugar,1,cup,1,ounce,7.75,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Dried Blueberry Powder,0.25,cup,1,gram,112,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Dried Blueberry Powder,0.25,cup,1,ounce,4,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Dried milk (Baker's Special Dry Milk),0.25,cup,1,gram,112,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Dried milk (Baker's Special Dry Milk),0.25,cup,1,ounce,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Dried nonfat milk (powdered),0.25,cup,1,gram,112,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Dried nonfat milk (powdered),0.25,cup,1,ounce,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Dried potato flakes (instant mashed potatoes),0.5,cup,1,gram,86,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Dried potato flakes (instant mashed potatoes),0.5,cup,1,ounce,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Dried whole milk (powdered),0.5,cup,1,gram,100,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Dried whole milk (powdered),0.5,cup,1,ounce,3.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Durum Flour,1,cup,1,gram,124,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Durum Flour,1,cup,1,ounce,4.375,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Easy Roll Dough Improver,2,tablespoon,16,gram,144,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Easy Roll Dough Improver,2,tablespoon,16,ounce,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Egg (fresh),1,large egg,4,gram,200,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+Egg (fresh),1,large egg,4,ounce,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+Egg white (fresh),1,large egg,4,gram,140,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+Egg white (fresh),1,large egg,4,ounce,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+Egg whites (dried),2,tablespoon,16,gram,88,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+Egg whites (dried),2,tablespoon,16,ounce,3,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+Egg yolk (fresh),1,large egg,4,gram,56,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+Egg yolk (fresh),1,large egg,4,ounce,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+Espresso Powder,1,tablespoon,16,gram,112,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Espresso Powder,1,tablespoon,16,ounce,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Everything Bagel Topping,0.25,cup,1,gram,140,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Everything Bagel Topping,0.25,cup,1,ounce,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Figs (dried, chopped)",1,cup,1,gram,149,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Figs (dried, chopped)",1,cup,1,ounce,5.25,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+First Clear Flour,1,cup,1,gram,106,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+First Clear Flour,1,cup,1,ounce,3.75,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Flax meal,0.5,cup,1,gram,100,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Flax meal,0.5,cup,1,ounce,3.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Flaxseed,0.25,cup,1,gram,140,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Flaxseed,0.25,cup,1,ounce,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Formaggio Italiano Cheese and Herb Blend,0.25,cup,1,gram,120,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Formaggio Italiano Cheese and Herb Blend,0.25,cup,1,ounce,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+French-Style Flour,1,cup,1,gram,120,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+French-Style Flour,1,cup,1,ounce,4.25,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Fruitcake Fruit Blend,1,cup,1,gram,120,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Fruitcake Fruit Blend,1,cup,1,ounce,4.25,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Garlic (cloves, in skin for roasting)",1,large head,3,gram,339,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Garlic (cloves, in skin for roasting)",1,large head,3,ounce,12,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Garlic (minced),2,tablespoon,16,gram,224,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Garlic (minced),2,tablespoon,16,ounce,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Garlic (peeled and sliced),1,cup,1,gram,149,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Garlic (peeled and sliced),1,cup,1,ounce,5.25,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Ghee,0.25,cup,1,gram,176,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Ghee,0.25,cup,1,ounce,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Ginger (fresh, sliced)",0.25,cup,1,gram,228,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Ginger (fresh, sliced)",0.25,cup,1,ounce,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Gluten-Free All-Purpose Baking Mix,1,cup,1,gram,120,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Gluten-Free All-Purpose Baking Mix,1,cup,1,ounce,4.25,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Gluten-Free All-Purpose Flour,1,cup,1,gram,156,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Gluten-Free All-Purpose Flour,1,cup,1,ounce,5.5,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Gluten-Free Bread Flour,1,cup,1,gram,120,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Gluten-Free Bread Flour,1,cup,1,ounce,4.25,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Gluten-Free Measure for Measure Flour,1,cup,1,gram,120,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Gluten-Free Measure for Measure Flour,1,cup,1,ounce,4.25,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Gluten-Free Pizza Flour,1,cup,1,gram,100,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Gluten-Free Pizza Flour,1,cup,1,ounce,3.5,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Gluten-Free sourdough starter (made with Gluten-Free Bread Flour),1,cup,1,gram,177.5,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Gluten-Free sourdough starter (made with Gluten-Free Bread Flour),1,cup,1,ounce,6.25,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Gluten-Free sourdough starter (made with Gluten-Free Measure for Measure Flour),1,cup,1,gram,234,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Gluten-Free sourdough starter (made with Gluten-Free Measure for Measure Flour),1,cup,1,ounce,8.25,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Glutinous rice flour,1,cup,1,gram,120,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Glutinous rice flour,1,cup,1,ounce,4.25,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Graham cracker crumbs (store-bought or crushed from whole),1,cup,1,gram,100,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Graham cracker crumbs (store-bought or crushed from whole),1,cup,1,ounce,3.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Granola,1,cup,1,gram,113,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Granola,1,cup,1,ounce,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Grape Nuts,0.5,cup,1,gram,114,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Grape Nuts,0.5,cup,1,ounce,4,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Guava paste,0.25,cup,1,gram,400,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Guava paste,0.25,cup,1,ounce,14,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Harvest Grains Blend,0.5,cup,1,gram,148,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Harvest Grains Blend,0.5,cup,1,ounce,5.25,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Hazelnut Praline Paste,0.5,cup,1,gram,312,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Hazelnut Praline Paste,0.5,cup,1,ounce,11,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Hazelnut flour,1,cup,1,gram,89,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Hazelnut flour,1,cup,1,ounce,3.125,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Hazelnut spread,0.5,cup,1,gram,320,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Hazelnut spread,0.5,cup,1,ounce,11.25,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Hazelnuts (whole),1,cup,1,gram,142,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Hazelnuts (whole),1,cup,1,ounce,5,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Hi-Maize Natural Fiber,0.25,cup,1,gram,128,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Hi-Maize Natural Fiber,0.25,cup,1,ounce,4.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+High-Gluten Flour,1,cup,1,gram,120,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+High-Gluten Flour,1,cup,1,ounce,4.25,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Honey,1,tablespoon,16,gram,336,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Honey,1,tablespoon,16,ounce,12,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Instant ClearJel,1,tablespoon,16,gram,176,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Instant ClearJel,1,tablespoon,16,ounce,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Irish-Style Flour,1,cup,1,gram,110,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Irish-Style Flour,1,cup,1,ounce,3.875,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Italian-Style Flour,1,cup,1,gram,106,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Italian-Style Flour,1,cup,1,ounce,3.75,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Jam or preserves,0.25,cup,1,gram,340,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Jam or preserves,0.25,cup,1,ounce,12,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Jammy Bits,1,cup,1,gram,184,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Jammy Bits,1,cup,1,ounce,6.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Keto Wheat Flour,1,cup,1,gram,120,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Keto Wheat Flour,1,cup,1,ounce,4.25,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Keto Wheat Pizza Crust Mix,1,cup,1,gram,110,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Keto Wheat Pizza Crust Mix,1,cup,1,ounce,3.875,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Key Lime Juice,1,cup,1,gram,227,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Key Lime Juice,1,cup,1,ounce,8,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Lard,0.5,cup,1,gram,226,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Lard,0.5,cup,1,ounce,8,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Leeks (diced),1,cup,1,gram,92,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Leeks (diced),1,cup,1,ounce,3.25,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Lemon Crumbles,1,cup,1,gram,180,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Lemon Crumbles,1,cup,1,ounce,6.33333333333333,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Lemon Curd,0.5,cup,1,gram,226,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Lemon Curd,0.5,cup,1,ounce,8,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Lemon Juice Powder,2,tablespoon,16,gram,144,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Lemon Juice Powder,2,tablespoon,16,ounce,5,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Lemon juice,1,tablespoon,16,gram,224,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Lemon juice,1,tablespoon,16,ounce,8,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Lime Juice Powder,2,tablespoon,16,gram,144,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Lime Juice Powder,2,tablespoon,16,ounce,5,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Macadamia nuts (whole),1,cup,1,gram,149,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Macadamia nuts (whole),1,cup,1,ounce,5.25,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Malt syrup,2,tablespoon,16,gram,344,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Malt syrup,2,tablespoon,16,ounce,12,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Malted Milk Powder,0.25,cup,1,gram,140,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Malted Milk Powder,0.25,cup,1,ounce,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+Malted Wheat Flakes,0.5,cup,1,gram,128,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Malted Wheat Flakes,0.5,cup,1,ounce,4.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Maple sugar,0.5,cup,1,gram,156,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Maple sugar,0.5,cup,1,ounce,5.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Maple syrup,0.5,cup,1,gram,312,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Maple syrup,0.5,cup,1,ounce,11,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Marshmallow Fluff®,1,cup,1,gram,128,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Marshmallow Fluff®,1,cup,1,ounce,4.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Marshmallow spread, homemade",1,cup,1,gram,72,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Marshmallow spread, homemade",1,cup,1,ounce,2.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Marshmallow spread, store-bought",1,cup,1,gram,123,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Marshmallow spread, store-bought",1,cup,1,ounce,4.33333333333333,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Marshmallows (mini),1,cup,1,gram,43,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Marshmallows (mini),1,cup,1,ounce,1.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Marzipan,1,cup,1,gram,290,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Marzipan,1,cup,1,ounce,10.125,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Masa Harina,1,cup,1,gram,93,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Masa Harina,1,cup,1,ounce,3.25,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Mascarpone cheese,1,cup,1,gram,227,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Mascarpone cheese,1,cup,1,ounce,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Mashed potatoes,1,cup,1,gram,213,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Mashed potatoes,1,cup,1,ounce,7.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Mashed sweet potatoes,1,cup,1,gram,240,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Mashed sweet potatoes,1,cup,1,ounce,8.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Mayonnaise,0.5,cup,1,gram,226,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Mayonnaise,0.5,cup,1,ounce,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Medium Rye Flour,1,cup,1,gram,106,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Medium Rye Flour,1,cup,1,ounce,3.75,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Meringue powder,0.25,cup,1,gram,172,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Meringue powder,0.25,cup,1,ounce,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Milk (evaporated),0.5,cup,1,gram,226,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Milk (evaporated),0.5,cup,1,ounce,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Milk (fresh),1,cup,1,gram,227,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Milk (fresh),1,cup,1,ounce,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Millet (whole),0.5,cup,1,gram,206,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Millet (whole),0.5,cup,1,ounce,7.25,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Mini chocolate chips,1,cup,1,gram,177,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Mini chocolate chips,1,cup,1,ounce,6.25,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Molasses,0.25,cup,1,gram,340,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Molasses,0.25,cup,1,ounce,12,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Mushrooms (sliced),1,cup,1,gram,78,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Mushrooms (sliced),1,cup,1,ounce,2.75,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Non-Diastatic Malt Powder,2,tablespoon,16,gram,144,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Non-Diastatic Malt Powder,2,tablespoon,16,ounce,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+Oat Flour,1,cup,1,gram,92,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Oat Flour,1,cup,1,ounce,3.25,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Oat bran,0.5,cup,1,gram,106,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Oat bran,0.5,cup,1,ounce,3.75,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Oats (King Arthur Rolled),1,cup,1,gram,113,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Oats (King Arthur Rolled),1,cup,1,ounce,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Oats (old-fashioned or quick-cooking),1,cup,1,gram,89,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Oats (old-fashioned or quick-cooking),1,cup,1,ounce,3.125,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Oats (prepared),1,cup,1,gram,147,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Oats (prepared),1,cup,1,ounce,5.125,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Olive oil,0.25,cup,1,gram,200,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Olive oil,0.25,cup,1,ounce,7,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Olives (sliced),1,cup,1,gram,142,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Olives (sliced),1,cup,1,ounce,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Onions (fresh, diced)",1,cup,1,gram,142,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Onions (fresh, diced)",1,cup,1,ounce,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Paleo Baking Flour,1,cup,1,gram,104,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Paleo Baking Flour,1,cup,1,ounce,3.625,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Palm shortening,0.25,cup,1,gram,180,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Palm shortening,0.25,cup,1,ounce,6,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Passion fruit purée,0.333333333333333,cup,1,gram,180,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Passion fruit purée,0.333333333333333,cup,1,ounce,6.375,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pasta Flour Blend,1,cup,1,gram,145,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pasta Flour Blend,1,cup,1,ounce,5.125,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pastry Flour,1,cup,1,gram,106,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pastry Flour,1,cup,1,ounce,3.75,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pastry Flour Blend,1,cup,1,gram,113,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pastry Flour Blend,1,cup,1,ounce,4,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Peaches (peeled and diced),1,cup,1,gram,170,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Peaches (peeled and diced),1,cup,1,ounce,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Peanut butter,0.5,cup,1,gram,270,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Peanut butter,0.5,cup,1,ounce,9.5,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Peanuts (whole, shelled)",1,cup,1,gram,142,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Peanuts (whole, shelled)",1,cup,1,ounce,5,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pears (peeled and diced),1,cup,1,gram,163,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pears (peeled and diced),1,cup,1,ounce,5.75,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pecan Meal,1,cup,1,gram,80,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pecan Meal,1,cup,1,ounce,2.75,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pecans (diced),0.5,cup,1,gram,114,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pecans (diced),0.5,cup,1,ounce,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pie Filling Enhancer,0.25,cup,1,gram,184,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pie Filling Enhancer,0.25,cup,1,ounce,6.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pine nuts,0.5,cup,1,gram,142,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pine nuts,0.5,cup,1,ounce,5,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Pineapple (crushed, drained)",1,cup,1,gram,256,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Pineapple (crushed, drained)",1,cup,1,ounce,9,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pineapple (dried),0.5,cup,1,gram,142,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pineapple (dried),0.5,cup,1,ounce,5,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Pineapple (fresh or canned, diced)",1,cup,1,gram,170,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Pineapple (fresh or canned, diced)",1,cup,1,ounce,6,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pistachio Paste,0.25,cup,1,gram,312,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pistachio Paste,0.25,cup,1,ounce,11,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pistachio nuts (shelled),0.5,cup,1,gram,120,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pistachio nuts (shelled),0.5,cup,1,ounce,4.25,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pizza Dough Flavor,2,tablespoon,16,gram,96,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pizza Dough Flavor,2,tablespoon,16,ounce,2,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pizza Flour Blend,1,cup,1,gram,124,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pizza Flour Blend,1,cup,1,ounce,4.375,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pizza Seasoning,2,tablespoon,16,gram,80,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pizza Seasoning,2,tablespoon,16,ounce,2.66666666666667,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pizza sauce,0.25,cup,1,gram,228,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pizza sauce,0.25,cup,1,ounce,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Polenta (coarse ground cornmeal),1,cup,1,gram,163,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Polenta (coarse ground cornmeal),1,cup,1,ounce,5.75,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Poppy seeds,2,tablespoon,16,gram,144,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Poppy seeds,2,tablespoon,16,ounce,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Potato Flour,0.25,cup,1,gram,184,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Potato Flour,0.25,cup,1,ounce,6.5,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Potato starch,1,cup,1,gram,152,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Potato starch,1,cup,1,ounce,5.375,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pumpernickel Flour,1,cup,1,gram,106,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pumpernickel Flour,1,cup,1,ounce,3.75,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pumpkin purée,1,cup,1,gram,227,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Pumpkin purée,1,cup,1,ounce,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Queso fresco,0.5,cup,1,gram,114,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Queso fresco,0.5,cup,1,ounce,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Quinoa (cooked),1,cup,1,gram,184,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Quinoa (cooked),1,cup,1,ounce,6.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Quinoa (whole),1,cup,1,gram,177,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Quinoa (whole),1,cup,1,ounce,6.25,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Quinoa flour,1,cup,1,gram,110,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Quinoa flour,1,cup,1,ounce,3.875,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Raisins (loose),1,cup,1,gram,149,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Raisins (loose),1,cup,1,ounce,5.25,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Raisins (packed),0.5,cup,1,gram,170,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Raisins (packed),0.5,cup,1,ounce,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Raspberries (fresh),1,cup,1,gram,120,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Raspberries (fresh),1,cup,1,ounce,4.25,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Rhubarb (sliced, 1/2"""" slices)",1,cup,1,gram,130,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Rhubarb (sliced, 1/2"""" slices)",1,cup,1,ounce,4.625,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Rice (long grain, dry)",0.5,cup,1,gram,198,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+"Rice (long grain, dry)",0.5,cup,1,ounce,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Rice Krispies,1,cup,1,gram,28,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Rice Krispies,1,cup,1,ounce,1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Rice flour (white),1,cup,1,gram,142,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Rice flour (white),1,cup,1,ounce,5,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+Rye Bread Improver,2,tablespoon,16,gram,112,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Rye Bread Improver,2,tablespoon,16,ounce,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Rye Chops,1,cup,1,gram,120,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Rye Chops,1,cup,1,ounce,4.25,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Rye Flour Blend,1,cup,1,gram,106,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Rye Flour Blend,1,cup,1,ounce,3.75,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Rye flakes,1,cup,1,gram,124,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Rye flakes,1,cup,1,ounce,4.375,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+"Salt (Kosher, Diamond Crystal)",1,tablespoon,16,gram,128,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+"Salt (Kosher, Diamond Crystal)",1,tablespoon,16,ounce,12,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+"Salt (Kosher, Morton's)",1,tablespoon,16,gram,256,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+"Salt (Kosher, Morton's)",1,tablespoon,16,ounce,12,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Salt (table),1,tablespoon,16,gram,288,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Salt (table),1,tablespoon,16,ounce,12,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+Scallions (sliced),1,cup,1,gram,64,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Scallions (sliced),1,cup,1,ounce,2.25,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Self-Rising Flour,1,cup,1,gram,113,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Self-Rising Flour,1,cup,1,ounce,4,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Semolina Flour,1,cup,1,gram,163,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Semolina Flour,1,cup,1,ounce,5.75,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sesame seeds,0.5,cup,1,gram,142,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Sesame seeds,0.5,cup,1,ounce,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Shallots (peeled and sliced),1,cup,1,gram,156,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Shallots (peeled and sliced),1,cup,1,ounce,5.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Six-Grain Blend,1,cup,1,gram,128,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Six-Grain Blend,1,cup,1,ounce,4.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Snow White Non-Melting Topping Sugar,0.5,cup,1,gram,114,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Snow White Non-Melting Topping Sugar,0.5,cup,1,ounce,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sorghum flour,1,cup,1,gram,138,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sorghum flour,1,cup,1,ounce,4.875,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sour cream,1,cup,1,gram,227,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sour cream,1,cup,1,ounce,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sourdough starter,1,cup,1,gram,234,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sourdough starter,1,cup,1,ounce,8.25,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Soy flour,0.25,cup,1,gram,140,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Soy flour,0.25,cup,1,ounce,5,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sparkling Sugar,0.25,cup,1,gram,228,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sparkling Sugar,0.25,cup,1,ounce,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Spelt Flour,1,cup,1,gram,99,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Spelt Flour,1,cup,1,ounce,3.5,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sprouted Wheat Flour,1,cup,1,gram,113,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sprouted Wheat Flour,1,cup,1,ounce,4,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Steel cut oats,0.5,cup,1,gram,140,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Steel cut oats,0.5,cup,1,ounce,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sticky Bun Sugar,1,cup,1,gram,99,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sticky Bun Sugar,1,cup,1,ounce,3.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Strawberries (fresh sliced),1,cup,1,gram,167,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Strawberries (fresh sliced),1,cup,1,ounce,5.875,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sugar (granulated white),1,cup,1,gram,198,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sugar (granulated white),1,cup,1,ounce,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sugar substitute (Splenda),1,cup,1,gram,25,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sugar substitute (Splenda),1,cup,1,ounce,0.875,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sundried tomatoes (dry pack),1,cup,1,gram,170,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sundried tomatoes (dry pack),1,cup,1,ounce,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sunflower seeds,0.25,cup,1,gram,140,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Sunflower seeds,0.25,cup,1,ounce,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+Super 10 Blend,1,cup,1,gram,106,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Super 10 Blend,1,cup,1,ounce,3.75,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Swedish Pearl Sugar,0.25,cup,1,gram,196,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Swedish Pearl Sugar,0.25,cup,1,ounce,7,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sweet Ground Chocolate and Cocoa Blend,0.25,cup,1,gram,112,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sweet Ground Chocolate and Cocoa Blend,0.25,cup,1,ounce,4,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sweetened condensed coconut milk,1,cup,1,gram,288,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sweetened condensed coconut milk,1,cup,1,ounce,10.125,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sweetened condensed milk,0.25,cup,1,gram,312,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Sweetened condensed milk,0.25,cup,1,ounce,11,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Tahini paste,0.5,cup,1,gram,256,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Tahini paste,0.5,cup,1,ounce,9,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Tapioca (quick cooking),2,tablespoon,16,gram,168,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Tapioca (quick cooking),2,tablespoon,16,ounce,6,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Tapioca starch or flour,1,cup,1,gram,113,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Tapioca starch or flour,1,cup,1,ounce,4,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Teff flour,1,cup,1,gram,135,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Teff flour,1,cup,1,ounce,4.75,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+The Works Bread Topping,0.25,cup,1,gram,140,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+The Works Bread Topping,0.25,cup,1,ounce,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Toasted Almond Flour,1,cup,1,gram,96,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Toasted Almond Flour,1,cup,1,ounce,3.375,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Toffee chunks,1,cup,1,gram,156,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Toffee chunks,1,cup,1,ounce,5.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Tomato paste,2,tablespoon,16,gram,232,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Tomato paste,2,tablespoon,16,ounce,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Tropical Fruit Blend,1,cup,1,gram,135,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Tropical Fruit Blend,1,cup,1,ounce,4.75,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Turbinado sugar (raw),1,cup,1,gram,180,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Turbinado sugar (raw),1,cup,1,ounce,6.375,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Unbleached Cake Flour,1,cup,1,gram,120,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Unbleached Cake Flour,1,cup,1,ounce,4.25,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Vanilla Extract,1,tablespoon,16,gram,224,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Vanilla Extract,1,tablespoon,16,ounce,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Vegetable oil,1,cup,1,gram,198,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Vegetable oil,1,cup,1,ounce,7,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Vegetable shortening,0.25,cup,1,gram,184,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Vegetable shortening,0.25,cup,1,ounce,6.5,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Vital Wheat Gluten,2,tablespoon,16,gram,144,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Vital Wheat Gluten,2,tablespoon,16,ounce,5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Walnuts (chopped),1,cup,1,gram,113,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Walnuts (chopped),1,cup,1,ounce,4,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Walnuts (whole),0.5,cup,1,gram,128,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Walnuts (whole),0.5,cup,1,ounce,4.5,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Water,1,cup,1,gram,227,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Water,1,cup,1,ounce,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Wheat berries (red),1,cup,1,gram,184,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Wheat berries (red),1,cup,1,ounce,6.5,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Wheat bran,0.5,cup,1,gram,64,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Wheat bran,0.5,cup,1,ounce,2.25,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Wheat germ,0.25,cup,1,gram,112,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Wheat germ,0.25,cup,1,ounce,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+White Chocolate Chips,1,cup,1,gram,170,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+White Chocolate Chips,1,cup,1,ounce,6,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+White Rye Flour,1,cup,1,gram,106,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+White Rye Flour,1,cup,1,ounce,3.75,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+White Whole Wheat Flour,1,cup,1,gram,113,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+White Whole Wheat Flour,1,cup,1,ounce,4,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Whole Grain Flour Blend,1,cup,1,gram,113,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Whole Grain Flour Blend,1,cup,1,ounce,4,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Whole Wheat Flour (Premium 100%),1,cup,1,gram,113,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Whole Wheat Flour (Premium 100%),1,cup,1,ounce,4,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Whole Wheat Pastry Flour / Graham Flour,1,cup,1,gram,96,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Whole Wheat Pastry Flour / Graham Flour,1,cup,1,ounce,3.375,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yeast (instant),1,tablespoon,16,gram,144,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yeast (instant),1,tablespoon,16,ounce,5.33333333333333,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yogurt,1,cup,1,gram,227,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yogurt,1,cup,1,ounce,8,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yuletide Cheer Fruit Blend,1,cup,1,gram,130,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Yuletide Cheer Fruit Blend,1,cup,1,ounce,4.5,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Zucchini (shredded),1,cup,1,gram,135.5,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+Zucchini (shredded),1,cup,1,ounce,4.75,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE

@@ -1,0 +1,627 @@
+ingredient,default_vol_amt,default_vol_unit,vol_conv_factor_to_cups,target_uom,target_quantity
+'00' Pizza Flour,1,cup,1,ounces,4
+'00' Pizza Flour,1,cup,1,grams,116
+Agave syrup,0.25,cup,1,ounces,12
+Agave syrup,0.25,cup,1,grams,336
+All-Purpose Flour,1,cup,1,ounces,4.25
+All-Purpose Flour,1,cup,1,grams,120
+Almond Flour,1,cup,1,ounces,3.375
+Almond Flour,1,cup,1,grams,96
+Almond butter,0.25,cup,1,ounces,9.33333333333333
+Almond butter,0.25,cup,1,grams,272
+Almond meal,1,cup,1,ounces,3
+Almond meal,1,cup,1,grams,84
+Almond paste (packed),1,cup,1,ounces,9.125
+Almond paste (packed),1,cup,1,grams,259
+Almonds (sliced),0.5,cup,1,ounces,3
+Almonds (sliced),0.5,cup,1,grams,86
+Almonds (slivered),0.5,cup,1,ounces,4
+Almonds (slivered),0.5,cup,1,grams,114
+"Almonds, whole (unblanched)",1,cup,1,ounces,5
+"Almonds, whole (unblanched)",1,cup,1,grams,142
+Amaranth flour,1,cup,1,ounces,3.625
+Amaranth flour,1,cup,1,grams,103
+Apple juice concentrate,0.25,cup,1,ounces,10
+Apple juice concentrate,0.25,cup,1,grams,280
+"Apples (dried, diced)",1,cup,1,ounces,3
+"Apples (dried, diced)",1,cup,1,grams,85
+"Apples (peeled, sliced)",1,cup,1,ounces,4
+"Apples (peeled, sliced)",1,cup,1,grams,113
+Applesauce,1,cup,1,ounces,9
+Applesauce,1,cup,1,grams,255
+"Apricots (dried, diced)",0.5,cup,1,ounces,4.5
+"Apricots (dried, diced)",0.5,cup,1,grams,128
+Artisan Bread Flour,1,cup,1,ounces,4.25
+Artisan Bread Flour,1,cup,1,grams,120
+Artisan Bread Topping,0.25,cup,1,ounces,6
+Artisan Bread Topping,0.25,cup,1,grams,172
+Baker's Cinnamon Filling,1,cup,1,ounces,5.375
+Baker's Cinnamon Filling,1,cup,1,grams,152
+Baker's Fruit Blend,1,cup,1,ounces,4.5
+Baker's Fruit Blend,1,cup,1,grams,128
+"Baker's Special Sugar (superfine sugar, castor sugar)",1,cup,1,ounces,6.75
+"Baker's Special Sugar (superfine sugar, castor sugar)",1,cup,1,grams,190
+Baking Sugar Alternative,1,cup,1,ounces,6
+Baking Sugar Alternative,1,cup,1,grams,170
+Baking powder,1,teaspoon,48,ounces,0.166666666666667
+Baking powder,1,teaspoon,48,grams,4
+Baking soda,0.5,teaspoon,48,ounces,0.2
+Baking soda,0.5,teaspoon,48,grams,6
+Bananas (mashed),1,cup,1,ounces,8
+Bananas (mashed),1,cup,1,grams,227
+Barley (cooked),1,cup,1,ounces,7.625
+Barley (cooked),1,cup,1,grams,215
+Barley (pearled),1,cup,1,ounces,7.5
+Barley (pearled),1,cup,1,grams,213
+Barley flakes,0.5,cup,1,ounces,3.25
+Barley flakes,0.5,cup,1,grams,92
+Barley flour,1,cup,1,ounces,3
+Barley flour,1,cup,1,grams,85
+Barley malt syrup,2,tablespoon,16,ounces,0.75
+Barley malt syrup,2,tablespoon,16,grams,21
+Basil pesto,2,tablespoon,16,ounces,0.5
+Basil pesto,2,tablespoon,16,grams,14
+Bell peppers (fresh),1,cup,1,ounces,5
+Bell peppers (fresh),1,cup,1,grams,142
+Berries (frozen),1,cup,1,ounces,5
+Berries (frozen),1,cup,1,grams,142
+Better Cheddar Cheese Powder,0.5,cup,1,ounces,4
+Better Cheddar Cheese Powder,0.5,cup,1,grams,114
+Blueberries (dried),1,cup,1,ounces,5.5
+Blueberries (dried),1,cup,1,grams,156
+Blueberries (fresh or frozen),1,cup,1,ounces,5.5
+Blueberries (fresh or frozen),1,cup,1,grams,155
+Blueberry juice,1,cup,1,ounces,8.5
+Blueberry juice,1,cup,1,grams,241
+Boiled cider,0.25,cup,1,ounces,12
+Boiled cider,0.25,cup,1,grams,340
+Bran cereal,1,cup,1,ounces,2.125
+Bran cereal,1,cup,1,grams,60
+Bread Flour,1,cup,1,ounces,4.25
+Bread Flour,1,cup,1,grams,120
+Bread crumbs (Japanese Panko),1,cup,1,ounces,1.75
+Bread crumbs (Japanese Panko),1,cup,1,grams,50
+Bread crumbs (dried),0.25,cup,1,ounces,4
+Bread crumbs (dried),0.25,cup,1,grams,112
+Bread crumbs (fresh),0.25,cup,1,ounces,3
+Bread crumbs (fresh),0.25,cup,1,grams,84
+Brown rice (cooked),1,cup,1,ounces,6
+Brown rice (cooked),1,cup,1,grams,170
+Brown rice flour,1,cup,1,ounces,4.5
+Brown rice flour,1,cup,1,grams,128
+"Brown sugar (dark or light, packed)",1,cup,1,ounces,7.5
+"Brown sugar (dark or light, packed)",1,cup,1,grams,213
+Buckwheat (whole),1,cup,1,ounces,6
+Buckwheat (whole),1,cup,1,grams,170
+Buckwheat Flour,1,cup,1,ounces,4.25
+Buckwheat Flour,1,cup,1,grams,120
+Bulgur,1,cup,1,ounces,5.375
+Bulgur,1,cup,1,grams,152
+Butter,8,tablespoon,16,ounces,0.5
+Butter,8,tablespoon,16,grams,14.125
+Buttermilk,1,cup,1,ounces,8
+Buttermilk,1,cup,1,grams,227
+Buttermilk powder,2,tablespoon,16,ounces,0.333333333333333
+Buttermilk powder,2,tablespoon,16,grams,9
+Cacao nibs,1,cup,1,ounces,4.25
+Cacao nibs,1,cup,1,grams,120
+Cake Enhancer,2,tablespoon,16,ounces,0.25
+Cake Enhancer,2,tablespoon,16,grams,7
+Candied Lemon Peel,0.25,cup,1,ounces,5.33333333333333
+Candied Lemon Peel,0.25,cup,1,grams,148
+Candied Orange Peel,0.25,cup,1,ounces,3.5
+Candied Orange Peel,0.25,cup,1,grams,100
+"Caramel (14-16 individual pieces, 1"""" squares)",0.5,cup,1,ounces,10
+"Caramel (14-16 individual pieces, 1"""" squares)",0.5,cup,1,grams,284
+Caramel bits (chopped Heath or toffee),1,cup,1,ounces,5.5
+Caramel bits (chopped Heath or toffee),1,cup,1,grams,156
+Caraway seeds,2,tablespoon,16,ounces,0.3125
+Caraway seeds,2,tablespoon,16,grams,9
+Carrots (cooked and puréed),0.5,cup,1,ounces,9
+Carrots (cooked and puréed),0.5,cup,1,grams,256
+Carrots (diced),1,cup,1,ounces,5
+Carrots (diced),1,cup,1,grams,142
+Carrots (grated),1,cup,1,ounces,3.5
+Carrots (grated),1,cup,1,grams,99
+Cashews (chopped),1,cup,1,ounces,4
+Cashews (chopped),1,cup,1,grams,113
+Cashews (whole),1,cup,1,ounces,4
+Cashews (whole),1,cup,1,grams,113
+Celery (diced),1,cup,1,ounces,5
+Celery (diced),1,cup,1,grams,142
+Cheese (Feta),0.5,cup,1,ounces,4
+Cheese (Feta),0.5,cup,1,grams,114
+Cheese (Ricotta),1,cup,1,ounces,8
+Cheese (Ricotta),1,cup,1,grams,227
+Cheese (grated Parmesan),0.5,cup,1,ounces,3.5
+Cheese (grated Parmesan),0.5,cup,1,grams,100
+"Cheese (grated cheddar, jack, mozzarella, or Swiss)",1,cup,1,ounces,4
+"Cheese (grated cheddar, jack, mozzarella, or Swiss)",1,cup,1,grams,113
+Cherries (candied),0.25,cup,1,ounces,7
+Cherries (candied),0.25,cup,1,grams,200
+Cherries (dried),0.5,cup,1,ounces,5
+Cherries (dried),0.5,cup,1,grams,142
+"Cherries (fresh, pitted, chopped)",0.5,cup,1,ounces,5.75
+"Cherries (fresh, pitted, chopped)",0.5,cup,1,grams,160
+Cherries (frozen),1,cup,1,ounces,4
+Cherries (frozen),1,cup,1,grams,113
+Cherry Concentrate,2,tablespoon,16,ounces,0.75
+Cherry Concentrate,2,tablespoon,16,grams,21
+Chia seeds,0.25,cup,1,ounces,5.33333333333333
+Chia seeds,0.25,cup,1,grams,148
+Chickpea flour,1,cup,1,ounces,3
+Chickpea flour,1,cup,1,grams,85
+Chives (fresh),0.5,cup,1,ounces,1.5
+Chives (fresh),0.5,cup,1,grams,42
+Chocolate (chopped),1,cup,1,ounces,6
+Chocolate (chopped),1,cup,1,grams,170
+Chocolate Chips,1,cup,1,ounces,6
+Chocolate Chips,1,cup,1,grams,170
+Chocolate Chunks,1,cup,1,ounces,6
+Chocolate Chunks,1,cup,1,grams,170
+Cinnamon Sweet Bits,0.25,cup,1,ounces,5
+Cinnamon Sweet Bits,0.25,cup,1,grams,140
+Cinnamon-Sugar,0.25,cup,1,ounces,7
+Cinnamon-Sugar,0.25,cup,1,grams,200
+Climate Blend Flour,1,cup,1,ounces,4
+Climate Blend Flour,1,cup,1,grams,115
+Cocoa (unsweetened),0.5,cup,1,ounces,3
+Cocoa (unsweetened),0.5,cup,1,grams,84
+"Coconut (sweetened, shredded)",1,cup,1,ounces,3
+"Coconut (sweetened, shredded)",1,cup,1,grams,85
+Coconut (toasted),1,cup,1,ounces,3
+Coconut (toasted),1,cup,1,grams,85
+"Coconut (unsweetened, desiccated)",1,cup,1,ounces,3
+"Coconut (unsweetened, desiccated)",1,cup,1,grams,85
+"Coconut (unsweetened, large flakes)",1,cup,1,ounces,2.125
+"Coconut (unsweetened, large flakes)",1,cup,1,grams,60
+"Coconut (unsweetened, shredded)",1,cup,1,ounces,1.875
+"Coconut (unsweetened, shredded)",1,cup,1,grams,53
+Coconut Flour,1,cup,1,ounces,4.5
+Coconut Flour,1,cup,1,grams,128
+Coconut Milk Powder,0.5,cup,1,ounces,4
+Coconut Milk Powder,0.5,cup,1,grams,114
+Coconut cream (unsweetened),1,cup,1,ounces,10
+Coconut cream (unsweetened),1,cup,1,grams,284
+Coconut milk (evaporated),1,cup,1,ounces,8.5
+Coconut milk (evaporated),1,cup,1,grams,242
+"Coconut milk; canned, well shaken",1,cup,1,ounces,8.5
+"Coconut milk; canned, well shaken",1,cup,1,grams,241
+Coconut oil,0.5,cup,1,ounces,8
+Coconut oil,0.5,cup,1,grams,226
+Coconut sugar,0.5,cup,1,ounces,5.5
+Coconut sugar,0.5,cup,1,grams,154
+Confectioners' sugar (unsifted),2,cup,1,ounces,4
+Confectioners' sugar (unsifted),2,cup,1,grams,113.5
+Cookie butter,0.25,cup,1,ounces,10
+Cookie butter,0.25,cup,1,grams,288
+Cookie crumbs,1,cup,1,ounces,3
+Cookie crumbs,1,cup,1,grams,85
+Corn (fresh or frozen),0.25,cup,1,ounces,5.33333333333333
+Corn (fresh or frozen),0.25,cup,1,grams,152
+Corn (popped),4,cup,1,ounces,0.1875
+Corn (popped),4,cup,1,grams,5.25
+Corn syrup,1,cup,1,ounces,11
+Corn syrup,1,cup,1,grams,312
+Cornmeal (whole),1,cup,1,ounces,4.875
+Cornmeal (whole),1,cup,1,grams,138
+"Cornmeal (yellow, Quaker)",1,cup,1,ounces,5.5
+"Cornmeal (yellow, Quaker)",1,cup,1,grams,156
+Cornstarch,0.25,cup,1,ounces,4
+Cornstarch,0.25,cup,1,grams,112
+Cracked wheat,1,cup,1,ounces,5.25
+Cracked wheat,1,cup,1,grams,149
+Cranberries (dried),0.5,cup,1,ounces,4
+Cranberries (dried),0.5,cup,1,grams,114
+Cranberries (fresh or frozen),1,cup,1,ounces,3.5
+Cranberries (fresh or frozen),1,cup,1,grams,99
+"Cream (heavy cream, light cream, or half & half)",1,cup,1,ounces,8
+"Cream (heavy cream, light cream, or half & half)",1,cup,1,grams,227
+Cream cheese,1,cup,1,ounces,8
+Cream cheese,1,cup,1,grams,227
+Cream of coconut,0.5,cup,1,ounces,10
+Cream of coconut,0.5,cup,1,grams,284
+Crystallized ginger,0.5,cup,1,ounces,6.5
+Crystallized ginger,0.5,cup,1,grams,184
+Crème fraiche,0.5,cup,1,ounces,8.66666666666667
+Crème fraiche,0.5,cup,1,grams,248
+Currants,1,cup,1,ounces,5
+Currants,1,cup,1,grams,142
+Dates (chopped),1,cup,1,ounces,5.25
+Dates (chopped),1,cup,1,grams,149
+Demerara sugar,1,cup,1,ounces,7.75
+Demerara sugar,1,cup,1,grams,220
+Dried Blueberry Powder,0.25,cup,1,ounces,4
+Dried Blueberry Powder,0.25,cup,1,grams,112
+Dried milk (Baker's Special Dry Milk),0.25,cup,1,ounces,4
+Dried milk (Baker's Special Dry Milk),0.25,cup,1,grams,112
+Dried nonfat milk (powdered),0.25,cup,1,ounces,4
+Dried nonfat milk (powdered),0.25,cup,1,grams,112
+Dried potato flakes (instant mashed potatoes),0.5,cup,1,ounces,3
+Dried potato flakes (instant mashed potatoes),0.5,cup,1,grams,86
+Dried whole milk (powdered),0.5,cup,1,ounces,3.5
+Dried whole milk (powdered),0.5,cup,1,grams,100
+Durum Flour,1,cup,1,ounces,4.375
+Durum Flour,1,cup,1,grams,124
+Easy Roll Dough Improver,2,tablespoon,16,ounces,0.3125
+Easy Roll Dough Improver,2,tablespoon,16,grams,9
+Egg (fresh),1,large egg,4,ounces,1.75
+Egg (fresh),1,large egg,4,grams,50
+Egg white (fresh),1,large egg,4,ounces,1.25
+Egg white (fresh),1,large egg,4,grams,35
+Egg whites (dried),2,tablespoon,16,ounces,0.1875
+Egg whites (dried),2,tablespoon,16,grams,5.5
+Egg yolk (fresh),1,large egg,4,ounces,0.5
+Egg yolk (fresh),1,large egg,4,grams,14
+Espresso Powder,1,tablespoon,16,ounces,0.25
+Espresso Powder,1,tablespoon,16,grams,7
+Everything Bagel Topping,0.25,cup,1,ounces,5
+Everything Bagel Topping,0.25,cup,1,grams,140
+"Figs (dried, chopped)",1,cup,1,ounces,5.25
+"Figs (dried, chopped)",1,cup,1,grams,149
+First Clear Flour,1,cup,1,ounces,3.75
+First Clear Flour,1,cup,1,grams,106
+Flax meal,0.5,cup,1,ounces,3.5
+Flax meal,0.5,cup,1,grams,100
+Flaxseed,0.25,cup,1,ounces,5
+Flaxseed,0.25,cup,1,grams,140
+Formaggio Italiano Cheese and Herb Blend,0.25,cup,1,ounces,4
+Formaggio Italiano Cheese and Herb Blend,0.25,cup,1,grams,120
+French-Style Flour,1,cup,1,ounces,4.25
+French-Style Flour,1,cup,1,grams,120
+Fruitcake Fruit Blend,1,cup,1,ounces,4.25
+Fruitcake Fruit Blend,1,cup,1,grams,120
+"Garlic (cloves, in skin for roasting)",1,large head,3,ounces,4
+"Garlic (cloves, in skin for roasting)",1,large head,3,grams,113
+Garlic (minced),2,tablespoon,16,ounces,0.5
+Garlic (minced),2,tablespoon,16,grams,14
+Garlic (peeled and sliced),1,cup,1,ounces,5.25
+Garlic (peeled and sliced),1,cup,1,grams,149
+Ghee,0.25,cup,1,ounces,6
+Ghee,0.25,cup,1,grams,176
+"Ginger (fresh, sliced)",0.25,cup,1,ounces,8
+"Ginger (fresh, sliced)",0.25,cup,1,grams,228
+Gluten-Free All-Purpose Baking Mix,1,cup,1,ounces,4.25
+Gluten-Free All-Purpose Baking Mix,1,cup,1,grams,120
+Gluten-Free All-Purpose Flour,1,cup,1,ounces,5.5
+Gluten-Free All-Purpose Flour,1,cup,1,grams,156
+Gluten-Free Bread Flour,1,cup,1,ounces,4.25
+Gluten-Free Bread Flour,1,cup,1,grams,120
+Gluten-Free Measure for Measure Flour,1,cup,1,ounces,4.25
+Gluten-Free Measure for Measure Flour,1,cup,1,grams,120
+Gluten-Free Pizza Flour,1,cup,1,ounces,3.5
+Gluten-Free Pizza Flour,1,cup,1,grams,100
+Gluten-Free sourdough starter (made with Gluten-Free Bread Flour),1,cup,1,ounces,6.25
+Gluten-Free sourdough starter (made with Gluten-Free Bread Flour),1,cup,1,grams,177.5
+Gluten-Free sourdough starter (made with Gluten-Free Measure for Measure Flour),1,cup,1,ounces,8.25
+Gluten-Free sourdough starter (made with Gluten-Free Measure for Measure Flour),1,cup,1,grams,234
+Glutinous rice flour,1,cup,1,ounces,4.25
+Glutinous rice flour,1,cup,1,grams,120
+Graham cracker crumbs (store-bought or crushed from whole),1,cup,1,ounces,3.5
+Graham cracker crumbs (store-bought or crushed from whole),1,cup,1,grams,100
+Granola,1,cup,1,ounces,4
+Granola,1,cup,1,grams,113
+Grape Nuts,0.5,cup,1,ounces,4
+Grape Nuts,0.5,cup,1,grams,114
+Guava paste,0.25,cup,1,ounces,14
+Guava paste,0.25,cup,1,grams,400
+Harvest Grains Blend,0.5,cup,1,ounces,5.25
+Harvest Grains Blend,0.5,cup,1,grams,148
+Hazelnut Praline Paste,0.5,cup,1,ounces,11
+Hazelnut Praline Paste,0.5,cup,1,grams,312
+Hazelnut flour,1,cup,1,ounces,3.125
+Hazelnut flour,1,cup,1,grams,89
+Hazelnut spread,0.5,cup,1,ounces,11.25
+Hazelnut spread,0.5,cup,1,grams,320
+Hazelnuts (whole),1,cup,1,ounces,5
+Hazelnuts (whole),1,cup,1,grams,142
+Hi-Maize Natural Fiber,0.25,cup,1,ounces,4.5
+Hi-Maize Natural Fiber,0.25,cup,1,grams,128
+High-Gluten Flour,1,cup,1,ounces,4.25
+High-Gluten Flour,1,cup,1,grams,120
+Honey,1,tablespoon,16,ounces,0.75
+Honey,1,tablespoon,16,grams,21
+Instant ClearJel,1,tablespoon,16,ounces,0.375
+Instant ClearJel,1,tablespoon,16,grams,11
+Irish-Style Flour,1,cup,1,ounces,3.875
+Irish-Style Flour,1,cup,1,grams,110
+Italian-Style Flour,1,cup,1,ounces,3.75
+Italian-Style Flour,1,cup,1,grams,106
+Jam or preserves,0.25,cup,1,ounces,12
+Jam or preserves,0.25,cup,1,grams,340
+Jammy Bits,1,cup,1,ounces,6.5
+Jammy Bits,1,cup,1,grams,184
+Keto Wheat Flour,1,cup,1,ounces,4.25
+Keto Wheat Flour,1,cup,1,grams,120
+Keto Wheat Pizza Crust Mix,1,cup,1,ounces,3.875
+Keto Wheat Pizza Crust Mix,1,cup,1,grams,110
+Key Lime Juice,1,cup,1,ounces,8
+Key Lime Juice,1,cup,1,grams,227
+Lard,0.5,cup,1,ounces,8
+Lard,0.5,cup,1,grams,226
+Leeks (diced),1,cup,1,ounces,3.25
+Leeks (diced),1,cup,1,grams,92
+Lemon Crumbles,1,cup,1,ounces,6.33333333333333
+Lemon Crumbles,1,cup,1,grams,180
+Lemon Curd,0.5,cup,1,ounces,8
+Lemon Curd,0.5,cup,1,grams,226
+Lemon Juice Powder,2,tablespoon,16,ounces,0.3125
+Lemon Juice Powder,2,tablespoon,16,grams,9
+Lemon juice,1,tablespoon,16,ounces,0.5
+Lemon juice,1,tablespoon,16,grams,14
+Lime Juice Powder,2,tablespoon,16,ounces,0.3125
+Lime Juice Powder,2,tablespoon,16,grams,9
+Macadamia nuts (whole),1,cup,1,ounces,5.25
+Macadamia nuts (whole),1,cup,1,grams,149
+Malt syrup,2,tablespoon,16,ounces,0.75
+Malt syrup,2,tablespoon,16,grams,21.5
+Malted Milk Powder,0.25,cup,1,ounces,5
+Malted Milk Powder,0.25,cup,1,grams,140
+Malted Wheat Flakes,0.5,cup,1,ounces,4.5
+Malted Wheat Flakes,0.5,cup,1,grams,128
+Maple sugar,0.5,cup,1,ounces,5.5
+Maple sugar,0.5,cup,1,grams,156
+Maple syrup,0.5,cup,1,ounces,11
+Maple syrup,0.5,cup,1,grams,312
+Marshmallow Fluff®,1,cup,1,ounces,4.5
+Marshmallow Fluff®,1,cup,1,grams,128
+"Marshmallow spread, homemade",1,cup,1,ounces,2.5
+"Marshmallow spread, homemade",1,cup,1,grams,72
+"Marshmallow spread, store-bought",1,cup,1,ounces,4.33333333333333
+"Marshmallow spread, store-bought",1,cup,1,grams,123
+Marshmallows (mini),1,cup,1,ounces,1.5
+Marshmallows (mini),1,cup,1,grams,43
+Marzipan,1,cup,1,ounces,10.125
+Marzipan,1,cup,1,grams,290
+Masa Harina,1,cup,1,ounces,3.25
+Masa Harina,1,cup,1,grams,93
+Mascarpone cheese,1,cup,1,ounces,8
+Mascarpone cheese,1,cup,1,grams,227
+Mashed potatoes,1,cup,1,ounces,7.5
+Mashed potatoes,1,cup,1,grams,213
+Mashed sweet potatoes,1,cup,1,ounces,8.5
+Mashed sweet potatoes,1,cup,1,grams,240
+Mayonnaise,0.5,cup,1,ounces,8
+Mayonnaise,0.5,cup,1,grams,226
+Medium Rye Flour,1,cup,1,ounces,3.75
+Medium Rye Flour,1,cup,1,grams,106
+Meringue powder,0.25,cup,1,ounces,6
+Meringue powder,0.25,cup,1,grams,172
+Milk (evaporated),0.5,cup,1,ounces,8
+Milk (evaporated),0.5,cup,1,grams,226
+Milk (fresh),1,cup,1,ounces,8
+Milk (fresh),1,cup,1,grams,227
+Millet (whole),0.5,cup,1,ounces,7.25
+Millet (whole),0.5,cup,1,grams,206
+Mini chocolate chips,1,cup,1,ounces,6.25
+Mini chocolate chips,1,cup,1,grams,177
+Molasses,0.25,cup,1,ounces,12
+Molasses,0.25,cup,1,grams,340
+Mushrooms (sliced),1,cup,1,ounces,2.75
+Mushrooms (sliced),1,cup,1,grams,78
+Non-Diastatic Malt Powder,2,tablespoon,16,ounces,0.3125
+Non-Diastatic Malt Powder,2,tablespoon,16,grams,9
+Oat Flour,1,cup,1,ounces,3.25
+Oat Flour,1,cup,1,grams,92
+Oat bran,0.5,cup,1,ounces,3.75
+Oat bran,0.5,cup,1,grams,106
+Oats (King Arthur Rolled),1,cup,1,ounces,4
+Oats (King Arthur Rolled),1,cup,1,grams,113
+Oats (old-fashioned or quick-cooking),1,cup,1,ounces,3.125
+Oats (old-fashioned or quick-cooking),1,cup,1,grams,89
+Oats (prepared),1,cup,1,ounces,5.125
+Oats (prepared),1,cup,1,grams,147
+Olive oil,0.25,cup,1,ounces,7
+Olive oil,0.25,cup,1,grams,200
+Olives (sliced),1,cup,1,ounces,5
+Olives (sliced),1,cup,1,grams,142
+"Onions (fresh, diced)",1,cup,1,ounces,5
+"Onions (fresh, diced)",1,cup,1,grams,142
+Paleo Baking Flour,1,cup,1,ounces,3.625
+Paleo Baking Flour,1,cup,1,grams,104
+Palm shortening,0.25,cup,1,ounces,6
+Palm shortening,0.25,cup,1,grams,180
+Passion fruit purée,0.333333333333333,cup,1,ounces,6.375
+Passion fruit purée,0.333333333333333,cup,1,grams,180
+Pasta Flour Blend,1,cup,1,ounces,5.125
+Pasta Flour Blend,1,cup,1,grams,145
+Pastry Flour,1,cup,1,ounces,3.75
+Pastry Flour,1,cup,1,grams,106
+Pastry Flour Blend,1,cup,1,ounces,4
+Pastry Flour Blend,1,cup,1,grams,113
+Peaches (peeled and diced),1,cup,1,ounces,6
+Peaches (peeled and diced),1,cup,1,grams,170
+Peanut butter,0.5,cup,1,ounces,9.5
+Peanut butter,0.5,cup,1,grams,270
+"Peanuts (whole, shelled)",1,cup,1,ounces,5
+"Peanuts (whole, shelled)",1,cup,1,grams,142
+Pears (peeled and diced),1,cup,1,ounces,5.75
+Pears (peeled and diced),1,cup,1,grams,163
+Pecan Meal,1,cup,1,ounces,2.75
+Pecan Meal,1,cup,1,grams,80
+Pecans (diced),0.5,cup,1,ounces,4
+Pecans (diced),0.5,cup,1,grams,114
+Pie Filling Enhancer,0.25,cup,1,ounces,6.5
+Pie Filling Enhancer,0.25,cup,1,grams,184
+Pine nuts,0.5,cup,1,ounces,5
+Pine nuts,0.5,cup,1,grams,142
+"Pineapple (crushed, drained)",1,cup,1,ounces,9
+"Pineapple (crushed, drained)",1,cup,1,grams,256
+Pineapple (dried),0.5,cup,1,ounces,5
+Pineapple (dried),0.5,cup,1,grams,142
+"Pineapple (fresh or canned, diced)",1,cup,1,ounces,6
+"Pineapple (fresh or canned, diced)",1,cup,1,grams,170
+Pistachio Paste,0.25,cup,1,ounces,11
+Pistachio Paste,0.25,cup,1,grams,312
+Pistachio nuts (shelled),0.5,cup,1,ounces,4.25
+Pistachio nuts (shelled),0.5,cup,1,grams,120
+Pizza Dough Flavor,2,tablespoon,16,ounces,0.125
+Pizza Dough Flavor,2,tablespoon,16,grams,6
+Pizza Flour Blend,1,cup,1,ounces,4.375
+Pizza Flour Blend,1,cup,1,grams,124
+Pizza Seasoning,2,tablespoon,16,ounces,0.166666666666667
+Pizza Seasoning,2,tablespoon,16,grams,5
+Pizza sauce,0.25,cup,1,ounces,8
+Pizza sauce,0.25,cup,1,grams,228
+Polenta (coarse ground cornmeal),1,cup,1,ounces,5.75
+Polenta (coarse ground cornmeal),1,cup,1,grams,163
+Poppy seeds,2,tablespoon,16,ounces,0.3125
+Poppy seeds,2,tablespoon,16,grams,9
+Potato Flour,0.25,cup,1,ounces,6.5
+Potato Flour,0.25,cup,1,grams,184
+Potato starch,1,cup,1,ounces,5.375
+Potato starch,1,cup,1,grams,152
+Pumpernickel Flour,1,cup,1,ounces,3.75
+Pumpernickel Flour,1,cup,1,grams,106
+Pumpkin purée,1,cup,1,ounces,8
+Pumpkin purée,1,cup,1,grams,227
+Queso fresco,0.5,cup,1,ounces,4
+Queso fresco,0.5,cup,1,grams,114
+Quinoa (cooked),1,cup,1,ounces,6.5
+Quinoa (cooked),1,cup,1,grams,184
+Quinoa (whole),1,cup,1,ounces,6.25
+Quinoa (whole),1,cup,1,grams,177
+Quinoa flour,1,cup,1,ounces,3.875
+Quinoa flour,1,cup,1,grams,110
+Raisins (loose),1,cup,1,ounces,5.25
+Raisins (loose),1,cup,1,grams,149
+Raisins (packed),0.5,cup,1,ounces,6
+Raisins (packed),0.5,cup,1,grams,170
+Raspberries (fresh),1,cup,1,ounces,4.25
+Raspberries (fresh),1,cup,1,grams,120
+"Rhubarb (sliced, 1/2"""" slices)",1,cup,1,ounces,4.625
+"Rhubarb (sliced, 1/2"""" slices)",1,cup,1,grams,130
+"Rice (long grain, dry)",0.5,cup,1,ounces,7
+"Rice (long grain, dry)",0.5,cup,1,grams,198
+Rice Krispies,1,cup,1,ounces,1
+Rice Krispies,1,cup,1,grams,28
+Rice flour (white),1,cup,1,ounces,5
+Rice flour (white),1,cup,1,grams,142
+Rye Bread Improver,2,tablespoon,16,ounces,0.25
+Rye Bread Improver,2,tablespoon,16,grams,7
+Rye Chops,1,cup,1,ounces,4.25
+Rye Chops,1,cup,1,grams,120
+Rye Flour Blend,1,cup,1,ounces,3.75
+Rye Flour Blend,1,cup,1,grams,106
+Rye flakes,1,cup,1,ounces,4.375
+Rye flakes,1,cup,1,grams,124
+"Salt (Kosher, Diamond Crystal)",1,tablespoon,16,ounces,0.75
+"Salt (Kosher, Diamond Crystal)",1,tablespoon,16,grams,8
+"Salt (Kosher, Morton's)",1,tablespoon,16,ounces,0.75
+"Salt (Kosher, Morton's)",1,tablespoon,16,grams,16
+Salt (table),1,tablespoon,16,ounces,0.75
+Salt (table),1,tablespoon,16,grams,18
+Scallions (sliced),1,cup,1,ounces,2.25
+Scallions (sliced),1,cup,1,grams,64
+Self-Rising Flour,1,cup,1,ounces,4
+Self-Rising Flour,1,cup,1,grams,113
+Semolina Flour,1,cup,1,ounces,5.75
+Semolina Flour,1,cup,1,grams,163
+Sesame seeds,0.5,cup,1,ounces,5
+Sesame seeds,0.5,cup,1,grams,142
+Shallots (peeled and sliced),1,cup,1,ounces,5.5
+Shallots (peeled and sliced),1,cup,1,grams,156
+Six-Grain Blend,1,cup,1,ounces,4.5
+Six-Grain Blend,1,cup,1,grams,128
+Snow White Non-Melting Topping Sugar,0.5,cup,1,ounces,4
+Snow White Non-Melting Topping Sugar,0.5,cup,1,grams,114
+Sorghum flour,1,cup,1,ounces,4.875
+Sorghum flour,1,cup,1,grams,138
+Sour cream,1,cup,1,ounces,8
+Sour cream,1,cup,1,grams,227
+Sourdough starter,1,cup,1,ounces,8.25
+Sourdough starter,1,cup,1,grams,234
+Soy flour,0.25,cup,1,ounces,5
+Soy flour,0.25,cup,1,grams,140
+Sparkling Sugar,0.25,cup,1,ounces,8
+Sparkling Sugar,0.25,cup,1,grams,228
+Spelt Flour,1,cup,1,ounces,3.5
+Spelt Flour,1,cup,1,grams,99
+Sprouted Wheat Flour,1,cup,1,ounces,4
+Sprouted Wheat Flour,1,cup,1,grams,113
+Steel cut oats,0.5,cup,1,ounces,5
+Steel cut oats,0.5,cup,1,grams,140
+Sticky Bun Sugar,1,cup,1,ounces,3.5
+Sticky Bun Sugar,1,cup,1,grams,99
+Strawberries (fresh sliced),1,cup,1,ounces,5.875
+Strawberries (fresh sliced),1,cup,1,grams,167
+Sugar (granulated white),1,cup,1,ounces,7
+Sugar (granulated white),1,cup,1,grams,198
+Sugar substitute (Splenda),1,cup,1,ounces,0.875
+Sugar substitute (Splenda),1,cup,1,grams,25
+Sundried tomatoes (dry pack),1,cup,1,ounces,6
+Sundried tomatoes (dry pack),1,cup,1,grams,170
+Sunflower seeds,0.25,cup,1,ounces,5
+Sunflower seeds,0.25,cup,1,grams,140
+Super 10 Blend,1,cup,1,ounces,3.75
+Super 10 Blend,1,cup,1,grams,106
+Swedish Pearl Sugar,0.25,cup,1,ounces,7
+Swedish Pearl Sugar,0.25,cup,1,grams,196
+Sweet Ground Chocolate and Cocoa Blend,0.25,cup,1,ounces,4
+Sweet Ground Chocolate and Cocoa Blend,0.25,cup,1,grams,112
+Sweetened condensed coconut milk,1,cup,1,ounces,10.125
+Sweetened condensed coconut milk,1,cup,1,grams,288
+Sweetened condensed milk,0.25,cup,1,ounces,11
+Sweetened condensed milk,0.25,cup,1,grams,312
+Tahini paste,0.5,cup,1,ounces,9
+Tahini paste,0.5,cup,1,grams,256
+Tapioca (quick cooking),2,tablespoon,16,ounces,0.375
+Tapioca (quick cooking),2,tablespoon,16,grams,10.5
+Tapioca starch or flour,1,cup,1,ounces,4
+Tapioca starch or flour,1,cup,1,grams,113
+Teff flour,1,cup,1,ounces,4.75
+Teff flour,1,cup,1,grams,135
+The Works Bread Topping,0.25,cup,1,ounces,5
+The Works Bread Topping,0.25,cup,1,grams,140
+Toasted Almond Flour,1,cup,1,ounces,3.375
+Toasted Almond Flour,1,cup,1,grams,96
+Toffee chunks,1,cup,1,ounces,5.5
+Toffee chunks,1,cup,1,grams,156
+Tomato paste,2,tablespoon,16,ounces,0.5
+Tomato paste,2,tablespoon,16,grams,14.5
+Tropical Fruit Blend,1,cup,1,ounces,4.75
+Tropical Fruit Blend,1,cup,1,grams,135
+Turbinado sugar (raw),1,cup,1,ounces,6.375
+Turbinado sugar (raw),1,cup,1,grams,180
+Unbleached Cake Flour,1,cup,1,ounces,4.25
+Unbleached Cake Flour,1,cup,1,grams,120
+Vanilla Extract,1,tablespoon,16,ounces,0.5
+Vanilla Extract,1,tablespoon,16,grams,14
+Vegetable oil,1,cup,1,ounces,7
+Vegetable oil,1,cup,1,grams,198
+Vegetable shortening,0.25,cup,1,ounces,6.5
+Vegetable shortening,0.25,cup,1,grams,184
+Vital Wheat Gluten,2,tablespoon,16,ounces,0.3125
+Vital Wheat Gluten,2,tablespoon,16,grams,9
+Walnuts (chopped),1,cup,1,ounces,4
+Walnuts (chopped),1,cup,1,grams,113
+Walnuts (whole),0.5,cup,1,ounces,4.5
+Walnuts (whole),0.5,cup,1,grams,128
+Water,1,cup,1,ounces,8
+Water,1,cup,1,grams,227
+Wheat berries (red),1,cup,1,ounces,6.5
+Wheat berries (red),1,cup,1,grams,184
+Wheat bran,0.5,cup,1,ounces,2.25
+Wheat bran,0.5,cup,1,grams,64
+Wheat germ,0.25,cup,1,ounces,4
+Wheat germ,0.25,cup,1,grams,112
+White Chocolate Chips,1,cup,1,ounces,6
+White Chocolate Chips,1,cup,1,grams,170
+White Rye Flour,1,cup,1,ounces,3.75
+White Rye Flour,1,cup,1,grams,106
+White Whole Wheat Flour,1,cup,1,ounces,4
+White Whole Wheat Flour,1,cup,1,grams,113
+Whole Grain Flour Blend,1,cup,1,ounces,4
+Whole Grain Flour Blend,1,cup,1,grams,113
+Whole Wheat Flour (Premium 100%),1,cup,1,ounces,4
+Whole Wheat Flour (Premium 100%),1,cup,1,grams,113
+Whole Wheat Pastry Flour / Graham Flour,1,cup,1,ounces,3.375
+Whole Wheat Pastry Flour / Graham Flour,1,cup,1,grams,96
+Yeast (instant),1,tablespoon,16,ounces,0.333333333333333
+Yeast (instant),1,tablespoon,16,grams,9
+Yogurt,1,cup,1,ounces,8
+Yogurt,1,cup,1,grams,227
+Yuletide Cheer Fruit Blend,1,cup,1,ounces,4.5
+Yuletide Cheer Fruit Blend,1,cup,1,grams,130
+Zucchini (shredded),1,cup,1,ounces,4.75
+Zucchini (shredded),1,cup,1,grams,135.5

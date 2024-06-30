@@ -173,6 +173,8 @@ dt <- melt(dt, measure.vars = c("ounces","grams"))
 
 setnames(dt, old = c("variable","value"), new = c("target_uom", "target_quantity"))
 
+dt[,target_uom:=ifelse(target_uom=="grams","gram","ounce")]
+
 setcolorder(
   dt,c(
     "ingredient",

@@ -166,8 +166,8 @@ dt[,grams_tmp2:=NULL]
 dt[,volume:=NULL]
 
 # dt[,cups:=ifelse(default_vol_unit=="cup",default_vol_amt/default_vol_amt,1)] # not needed
-dt[,ounces:=ounces/default_vol_amt]
-dt[,grams:=grams/default_vol_amt]
+dt[,ounces:=ounces/default_vol_amt*vol_conv_factor_to_cups]
+dt[,grams:=grams/default_vol_amt*vol_conv_factor_to_cups]
 
 dt <- melt(dt, measure.vars = c("ounces","grams"))
 

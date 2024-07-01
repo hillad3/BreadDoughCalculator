@@ -189,22 +189,49 @@ setcolorder(
 setorder(dt, ingredient, target_uom)
 
 # classification tags
-dt[,flours_tag:=str_detect(ingredient,regex("flour|cornmeal",ignore_case=TRUE))]
-dt[,fats_tag:=str_detect(ingredient,regex("oil|lard|shortening",ignore_case=TRUE))]
 dt[,butters_tag:=str_detect(ingredient,regex("butter",ignore_case=TRUE))]
-dt[,nuts_tag:=str_detect(ingredient,regex("almond|cacao nibs|cashew|grape nut|hazelnut|macadamia nut|marzipan|peanuts|pine nut|pistachio nut|walnut",ignore_case=TRUE))]
-dt[,fruits_tag:=str_detect(ingredient,regex("apple|apricot|banana|berries|berry|cherries|cherry|cranberr|dates|fruit|guava|lemon|lime|orange",ignore_case=TRUE))]
-dt[,chocolates_tag:=str_detect(ingredient,regex("chocolate|cacao nibs",ignore_case=TRUE))]
+dt[,chocolates_tag:=str_detect(ingredient,regex("chocolate|cacao nibs|cocoa",ignore_case=TRUE))]
 dt[,coconuts_tag:=str_detect(ingredient,regex("coconut",ignore_case=TRUE))]
-dt[,gf_tag:=str_detect(ingredient,regex("gluten-free",ignore_case=TRUE))]
-dt[,veggies_tag:=str_detect(ingredient,regex("basil|bell pepper|carrot|celery|chives|corn \\(fresh or frozen\\)|garlic|leeks|mushroom|onion|potato|pumpkin|scallion|tomato|zucchini",ignore_case=TRUE))]
-dt[,sugars_tag:=str_detect(ingredient,regex("agave|caramel|honey|marshmallow|molasses|sugar",ignore_case=TRUE))]
-dt[,dairy_tag:=str_detect(ingredient,regex("butter|cheese|cream|fraiche|milk|yogurt",ignore_case=TRUE))]
-dt[,powders_tag:=str_detect(ingredient,regex("baking powder|baking soda|powder",ignore_case=TRUE))]
+dt[,dairy_tag:=str_detect(ingredient,regex("butter|cheese|cream|fraiche|ghee|milk|queso|yogurt",ignore_case=TRUE))]
 dt[,eggs_tag:=str_detect(ingredient,regex("egg",ignore_case=TRUE))]
-dt[,seeds_tag:=str_detect(ingredient,regex("seed",ignore_case=TRUE))]
+dt[,fats_tag:=str_detect(ingredient,regex("oil|lard|shortening",ignore_case=TRUE))]
+dt[,flours_tag:=str_detect(ingredient,regex("flour|cornmeal",ignore_case=TRUE))]
+dt[,fruits_tag:=str_detect(ingredient,regex("apple|apricot|banana|berries|berry|cherries|cherry|cranberr|currants|dates|fruit|guava|lemon|lime|orange|peach|^pears|raisins",ignore_case=TRUE))]
+dt[,gf_tag:=str_detect(ingredient,regex("gluten-free",ignore_case=TRUE))]
+dt[,grains_tag:=str_detect(ingredient,regex("bran|barley|buckwheat|bulgur|corn \\(popped\\)|crumbs|grain blend|grains blend|granola|millet|oats|quinoa|rye|super 10 blend|wheat",ignore_case=TRUE))]
+dt[,nuts_tag:=str_detect(ingredient,regex("almond|cacao nibs|cashew|^fig|grape nut|hazelnut|macadamia nut|marzipan|peanuts|pecan|pine nut|pistachio|walnut",ignore_case=TRUE))]
+dt[,pizza_tag:=str_detect(ingredient,regex("pizza|yeast \\(instant\\)",ignore_case=TRUE))]
+dt[,powders_tag:=str_detect(ingredient,regex("baking powder|baking soda|cornstarch|powder",ignore_case=TRUE))]
 dt[,rices_tag:=str_detect(ingredient,regex("rice",ignore_case=TRUE))]
 dt[,salts_tag:=str_detect(ingredient,regex("salt",ignore_case=TRUE))]
+dt[,sauces_tag:=str_detect(ingredient,regex("mayonnaise|sauce",ignore_case=TRUE))]
+dt[,seeds_tag:=str_detect(ingredient,regex("flax|seed|tahini",ignore_case=TRUE))]
+dt[,sugars_tag:=str_detect(ingredient,regex("agave|caramel|corn syrup|honey|marshmallow|malt syrup|maple syrup|molasses|sugar|toffee",ignore_case=TRUE))]
+dt[,toppings_tag:=str_detect(ingredient,regex("cake enhancer|filling|ginger|jammy bits|preserves|pie filling|seasoning|sweet bits|topping",ignore_case=TRUE))]
+dt[,veggies_tag:=str_detect(ingredient,regex("basil|bell pepper|carrot|celery|chives|corn \\(fresh or frozen\\)|garlic|leeks|mushroom|olive|onion|potato|pumpkin|rhubarb|scallion|shallot|tomato|zucchini",ignore_case=TRUE))]
+
+dt[,none_tag:=
+     butters_tag |
+     chocolates_tag |
+     coconuts_tag |
+     dairy_tag |
+     eggs_tag |
+     fats_tag |
+     flours_tag |
+     fruits_tag |
+     gf_tag |
+     grains_tag |
+     nuts_tag |
+     pizza_tag |
+     powders_tag |
+     rices_tag |
+     salts_tag |
+     sauces_tag |
+     seeds_tag |
+     sugars_tag |
+     toppings_tag |
+     veggies_tag
+]
 
 fwrite(dt,"King Arthur Volumetric Conversions - Cleaned.csv",)
 

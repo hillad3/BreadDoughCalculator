@@ -211,7 +211,7 @@ dt[,toppings_tag:=str_detect(ingredient,regex("cake enhancer|filling|ginger|jamm
 dt[,veggies_tag:=str_detect(ingredient,regex("basil|bell pepper|carrot|celery|chives|corn \\(fresh or frozen\\)|garlic|leeks|mushroom|olive|onion|potato|pumpkin|rhubarb|scallion|shallot|tomato|zucchini",ignore_case=TRUE))]
 
 dt[,unassigned_tag:=
-     butters_tag |
+     !(butters_tag |
      chocolates_tag |
      coconuts_tag |
      dairy_tag |
@@ -230,7 +230,7 @@ dt[,unassigned_tag:=
      seeds_tag |
      sugars_tag |
      toppings_tag |
-     veggies_tag
+     veggies_tag)
 ]
 
 fwrite(dt,"King Arthur Volumetric Conversions - Cleaned.csv",)

@@ -189,18 +189,19 @@ setcolorder(
 setorder(dt, ingredient, target_uom)
 
 # classification tags
+dt[,baking_tag:=str_detect(ingredient,regex("dough|fiber|clearjel|vanilla extract|water|yeast \\(instant\\)",ignore_case=TRUE))]
 dt[,butters_tag:=str_detect(ingredient,regex("butter",ignore_case=TRUE))]
 dt[,chocolates_tag:=str_detect(ingredient,regex("chocolate|cacao nibs|cocoa",ignore_case=TRUE))]
 dt[,coconuts_tag:=str_detect(ingredient,regex("coconut",ignore_case=TRUE))]
 dt[,dairy_tag:=str_detect(ingredient,regex("butter|cheese|cream|fraiche|ghee|milk|queso|yogurt",ignore_case=TRUE))]
 dt[,eggs_tag:=str_detect(ingredient,regex("egg",ignore_case=TRUE))]
 dt[,fats_tag:=str_detect(ingredient,regex("oil|lard|shortening",ignore_case=TRUE))]
-dt[,flours_tag:=str_detect(ingredient,regex("flour|cornmeal",ignore_case=TRUE))]
+dt[,flours_tag:=str_detect(ingredient,regex("flour|cornmeal|masa harina",ignore_case=TRUE))]
 dt[,fruits_tag:=str_detect(ingredient,regex("apple|apricot|banana|berries|berry|cherries|cherry|cranberr|currants|dates|fruit|guava|lemon|lime|orange|peach|^pears|raisins",ignore_case=TRUE))]
 dt[,gf_tag:=str_detect(ingredient,regex("gluten-free",ignore_case=TRUE))]
 dt[,grains_tag:=str_detect(ingredient,regex("bran|barley|buckwheat|bulgur|corn \\(popped\\)|crumbs|grain blend|grains blend|granola|millet|oats|quinoa|rye|super 10 blend|wheat",ignore_case=TRUE))]
 dt[,nuts_tag:=str_detect(ingredient,regex("almond|cacao nibs|cashew|^fig|grape nut|hazelnut|macadamia nut|marzipan|peanuts|pecan|pine nut|pistachio|walnut",ignore_case=TRUE))]
-dt[,pizza_tag:=str_detect(ingredient,regex("pizza|yeast \\(instant\\)",ignore_case=TRUE))]
+dt[,pizza_tag:=str_detect(ingredient,regex("pizza",ignore_case=TRUE))]
 dt[,powders_tag:=str_detect(ingredient,regex("baking powder|baking soda|cornstarch|powder",ignore_case=TRUE))]
 dt[,rices_tag:=str_detect(ingredient,regex("rice",ignore_case=TRUE))]
 dt[,salts_tag:=str_detect(ingredient,regex("salt",ignore_case=TRUE))]
@@ -211,7 +212,8 @@ dt[,toppings_tag:=str_detect(ingredient,regex("cake enhancer|filling|ginger|jamm
 dt[,veggies_tag:=str_detect(ingredient,regex("basil|bell pepper|carrot|celery|chives|corn \\(fresh or frozen\\)|garlic|leeks|mushroom|olive|onion|potato|pumpkin|rhubarb|scallion|shallot|tomato|zucchini",ignore_case=TRUE))]
 
 dt[,unassigned_tag:=
-     !(butters_tag |
+     !(baking_tag |
+     butters_tag |
      chocolates_tag |
      coconuts_tag |
      dairy_tag |

@@ -210,7 +210,7 @@ dt[,sugars_tag:=str_detect(ingredient,regex("agave|caramel|corn syrup|honey|mars
 dt[,toppings_tag:=str_detect(ingredient,regex("cake enhancer|filling|ginger|jammy bits|preserves|pie filling|seasoning|sweet bits|topping",ignore_case=TRUE))]
 dt[,veggies_tag:=str_detect(ingredient,regex("basil|bell pepper|carrot|celery|chives|corn \\(fresh or frozen\\)|garlic|leeks|mushroom|olive|onion|potato|pumpkin|rhubarb|scallion|shallot|tomato|zucchini",ignore_case=TRUE))]
 
-dt[,none_tag:=
+dt[,unassigned_tag:=
      butters_tag |
      chocolates_tag |
      coconuts_tag |

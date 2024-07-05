@@ -1,4 +1,4 @@
-ingredient,default_vol_amt,default_vol_unit,vol_conv_factor_to_cups,target_uom,target_quantity,butters_tag,chocolates_tag,coconuts_tag,dairy_tag,eggs_tag,fats_tag,flours_tag,fruits_tag,gf_tag,grains_tag,nuts_tag,pizza_tag,powders_tag,rices_tag,salts_tag,sauces_tag,seeds_tag,sugars_tag,toppings_tag,veggies_tag,none_tag
+ingredient,default_vol_amt,default_vol_unit,vol_conv_factor_to_cups,target_uom,target_quantity,butters_tag,chocolates_tag,coconuts_tag,dairy_tag,eggs_tag,fats_tag,flours_tag,fruits_tag,gf_tag,grains_tag,nuts_tag,pizza_tag,powders_tag,rices_tag,salts_tag,sauces_tag,seeds_tag,sugars_tag,toppings_tag,veggies_tag,unassigned_tag
 '00' Pizza Flour,1,cup,1,gram,116,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
 '00' Pizza Flour,1,cup,1,ounce,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
 Agave syrup,0.25,cup,1,gram,336,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE

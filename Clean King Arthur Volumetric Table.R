@@ -31,10 +31,20 @@ dt <- dt[!(ingredient=="Yeast (instant)" & volume=="2 1/4 teaspoons")]
 dt <- dt[!(ingredient=="Yeast (instant)" & volume=="2 teaspoons")]
 
 # clean ingredient descriptions
+dt[,ingredient:=dplyr::case_when(
+  str_detect(ingredient,'"{2,}') ~ str_replace_all(ingredient,'"{2,}',' inch'),
+  str_detect(ingredient,"Egg") & str_detect(ingredient,"\\(fresh\\)") ~ str_replace(ingredient,"fresh","1 large; fresh"),
+  ingredient=="Garlic (cloves, in skin for roasting)" ~ "Garlic (1 large head, in skin for roasting)",
+  .default = ingredient
+)]
+
+# clean volume descriptions
 dt[,volume:=dplyr::case_when(
   volume=="8 tablespoons (1/2 cup)" ~ "8 tablespoons",
-  volume=="1 large" & str_detect(ingredient,"Egg") ~ "1 large egg",
-  volume=="1 large head" & str_detect(ingredient,"Garlic \\(cloves") ~ "1 large head",
+  volume=="1 large" & ingredient=="Egg (1 large; fresh)" ~ "3 tablespoons",
+  volume=="1 large" & ingredient=="Egg white (1 large; fresh)" ~ "2 tablespoons",
+  volume=="1 large" & ingredient=="Egg yolk (1 large; fresh)" ~ "1 tablespoons",
+  volume=="1 large head" & str_detect(ingredient,"Garlic") ~ "3/4 cup",
   .default = volume
 )]
 
@@ -78,25 +88,23 @@ if(length(dt[str_detect(ounces,"Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec"
   stop("There are dates in the ounces column")
 }
 
-dt[,default_vol_unit:=str_extract(volume,"cups|cup|teaspoons|teaspoon|tablespoons|tablespoon|large head|large egg")]
+dt[,default_vol_uom:=str_extract(volume,"cups|cup|teaspoons|teaspoon|tablespoons|tablespoon")]
 
-if(length(dt[is.na(default_vol_unit),ounces])>0){
-  print(dt[is.na(default_vol_unit)])
-  stop("There are unknown vol_units in the volume column.")
+if(length(dt[is.na(default_vol_uom),ounces])>0){
+  print(dt[is.na(default_vol_uom)])
+  stop("There are unknown vol_uoms in the volume column.")
 }
 
-dt[,vol_amt_tmp:=str_remove(volume,paste0(" ",default_vol_unit))]
+dt[,vol_amt_tmp:=str_remove(volume,paste0(" ",default_vol_uom))]
 
-dt[,default_vol_unit:=ifelse(default_vol_unit=="cups","cup",default_vol_unit)]
-dt[,default_vol_unit:=ifelse(default_vol_unit=="teaspoons","teaspoon",default_vol_unit)]
-dt[,default_vol_unit:=ifelse(default_vol_unit=="tablespoons","tablespoon",default_vol_unit)]
+dt[,default_vol_uom:=ifelse(default_vol_uom=="cups","cup",default_vol_uom)]
+dt[,default_vol_uom:=ifelse(default_vol_uom=="teaspoons","teaspoon",default_vol_uom)]
+dt[,default_vol_uom:=ifelse(default_vol_uom=="tablespoons","tablespoon",default_vol_uom)]
 
 dt[,vol_conv_factor_to_cups:=dplyr::case_when(
-  default_vol_unit=="cup" ~ 1,
-  default_vol_unit=="large head" ~ 3,
-  default_vol_unit=="large egg" ~ 4,
-  default_vol_unit=="tablespoon" ~ 16,
-  default_vol_unit=="teaspoon" ~ 48,
+  default_vol_uom=="cup" ~ 1,
+  default_vol_uom=="tablespoon" ~ 16,
+  default_vol_uom=="teaspoon" ~ 48,
   .default = NA_real_
 )]
 
@@ -104,8 +112,10 @@ dt[,default_vol_amt:=dplyr::case_when(
   vol_amt_tmp=="1/4" ~ 0.25,
   vol_amt_tmp=="1/3" ~ 1/3,
   vol_amt_tmp=="1/2" ~ 0.5,
+  vol_amt_tmp=="3/4" ~ 0.75,
   vol_amt_tmp=="1" ~ 1,
   vol_amt_tmp=="2" ~ 2,
+  vol_amt_tmp=="3" ~ 3,
   vol_amt_tmp=="4" ~ 4,
   vol_amt_tmp=="8" ~ 8,
   .default = NA_real_
@@ -165,13 +175,13 @@ dt[,grams_tmp1:=NULL]
 dt[,grams_tmp2:=NULL]
 dt[,volume:=NULL]
 
-# dt[,cups:=ifelse(default_vol_unit=="cup",default_vol_amt/default_vol_amt,1)] # not needed
+# dt[,cups:=ifelse(default_vol_uom=="cup",default_vol_amt/default_vol_amt,1)] # not needed
 dt[,ounces:=ounces/default_vol_amt*vol_conv_factor_to_cups]
 dt[,grams:=grams/default_vol_amt*vol_conv_factor_to_cups]
 
 dt <- melt(dt, measure.vars = c("ounces","grams"))
 
-setnames(dt, old = c("variable","value"), new = c("target_uom", "target_quantity"))
+setnames(dt, old = c("variable","value"), new = c("target_uom", "target_amt"))
 
 dt[,target_uom:=ifelse(target_uom=="grams","gram","ounce")]
 
@@ -179,10 +189,10 @@ setcolorder(
   dt,c(
     "ingredient",
     "default_vol_amt",
-    "default_vol_unit",
+    "default_vol_uom",
     "vol_conv_factor_to_cups",
     "target_uom",
-    "target_quantity"
+    "target_amt"
   )
 )
 

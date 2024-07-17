@@ -62,6 +62,12 @@ dt[,ounces:=dplyr::case_when(
   .default = ounces
 )]
 
+# add new items that aren't in the King Arthur's website
+dt <- rbindlist(list(
+  dt,
+  list("White Vinegar","1 cup","8 1/8","230")
+))
+
 if(length(dt[ounces=="",ounces])>0){
   print(dt[ounces==""])
   stop("There are blanks in the ounces column.")
@@ -201,7 +207,7 @@ setcolorder(
 setorder(dt, ingredient, target_uom)
 
 # classification tags
-dt[,baking_tag:=str_detect(ingredient,regex("dough|fiber|clearjel|vanilla extract|water|yeast \\(instant\\)",ignore_case=TRUE))]
+dt[,baking_tag:=str_detect(ingredient,regex("dough|fiber|clearjel|vanilla extract|water|yeast \\(instant\\)|vinegar",ignore_case=TRUE))]
 dt[,butters_tag:=str_detect(ingredient,regex("butter",ignore_case=TRUE))]
 dt[,chocolates_tag:=str_detect(ingredient,regex("chocolate|cacao nibs|cocoa",ignore_case=TRUE))]
 dt[,coconuts_tag:=str_detect(ingredient,regex("coconut",ignore_case=TRUE))]

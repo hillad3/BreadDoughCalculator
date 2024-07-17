@@ -1,8 +1,35 @@
 
 modVolumeConversionUI <- function(id_,
                                   vol_conv_,
-                                  ingredient_classes_){
+                                  ingredient_tags_){
   tagList(
+    br(),
+    accordion(
+      open = TRUE,
+      multiple = FALSE,
+      accordion_panel(
+        title = "Filter Ingredient Selector",
+        column(
+          width = 12,
+          checkboxGroupInput(
+            inputId = NS(id_,"tags"),
+            label = NULL,
+            inline = TRUE,
+            choiceNames = names(ingredient_tags_),
+            choiceValues = ingredient_tags_ |> unname(),
+            selected = ingredient_tags_
+          ),
+          actionButton(
+            inputId = NS(id_,"no_tags"),
+            label = "Remove All"
+          ),
+          actionButton(
+            inputId = NS(id_,"all_tags"),
+            label = "Include All"
+          )
+        )
+      )
+    ),
     br(),
     fluidRow(
       column(
@@ -15,21 +42,24 @@ modVolumeConversionUI <- function(id_,
         selectInput(
           inputId = NS(id_,"ingredient"),
           label = NULL,
-          choices = c(vol_conv_$ingredient),
+          choices = NULL, # the reactive in the server will provide this after loading
+          selected = NULL,
           multiple = FALSE
         )
       ),
-      column(width = 3,
+      column(
+        width = 3,
         actionButton(
           inputId = NS(id_,"reset_page"),
           label = "Reset",
-          style = "color:white; font-type:bold;"
+          class = "btn btn-warning",
+          style = "font-weight:bold;"
         )
       )
     ),
     br(),
     fluidRow(
-      tags$strong("Volume (Input): "),
+      tags$strong("Volume: "),
       column(
         width = 2,
         numericInput(
@@ -41,38 +71,76 @@ modVolumeConversionUI <- function(id_,
         )
       ),
       column(
+        width = 1,
+        p("Lock"),
+        checkboxInput(
+          inputId = NS(id_,"amt_locked"),
+          label = NULL,
+          value = FALSE
+        )
+      ),
+      column(
         width = 4,
         selectInput(
           inputId = NS(id_,"vol_uom_in"),
           label = "Unit of Measure",
-          choices = c("","cup","tablespoon","teaspoon"),
-          selected = "cup",
+          choices = c("cup","tablespoon","teaspoon"),
+          selected = NA_character_,
           multiple = FALSE
+        )
+      ),
+      column(
+        width = 1,
+        p("Lock"),
+        checkboxInput(
+          inputId = NS(id_,"uom_locked"),
+          label = NULL,
+          value = FALSE
+        )
+      ),
+      column(
+        width = 2,
+        actionButton(
+          inputId = NS(id_,"calc_vol"),
+          label = "Calculate Volume",
+          class = "btn btn-secondary",
+          style = "margin-top:32px; margin-right:1%; font-weight:bold; font-size:10pt"
         )
       ),
       style="margin-left:1%"
     ),
     br(),
     fluidRow(
-      tags$strong("Weight (Output): "),
+      tags$strong("Weight: "),
       column(
         width = 2,
         numericInput(
           inputId = NS(id_,"target_amt_in"),
           label = "Amount",
-          value = 0,
+          value = NA_real_,
           min = 0,
           step = 1/8
         )
       ),
+      column(width = 1),
       column(
         width = 4,
         selectInput(
           inputId = NS(id_,"target_uom_in"),
           label = "Unit of Measure",
-          choices = c("","ounce","gram"),
+          choices = c("ounce","gram"),
           selected = "gram",
           multiple = FALSE
+        )
+      ),
+      column(width = 1),
+      column(
+        width = 2,
+        actionButton(
+          inputId = NS(id_,"calc_weight"),
+          label = "Calculate Weight",
+          class = "btn btn-primary",
+          style = "margin-top:32px; margin-right:1%; font-weight:bold; font-size:10pt"
         )
       ),
       style="margin-left:1%"
@@ -82,100 +150,220 @@ modVolumeConversionUI <- function(id_,
       open = FALSE,
       multiple = FALSE,
       accordion_panel(
-        title = "Filter Ingredient List",
-        selectInput(
-          inputId = NS(id_,"ingred_classes"),
-          label = NULL,
-          choices = ingredient_classes_,
-          selected = ingredient_classes_ |> as.list(),
-          multiple = TRUE
-        ),
-        actionButton(
-          inputId = NS(id_,"no_classes"),
-          label = "Remove All"
-        ),
-        actionButton(
-          inputId = NS(id_,"all_classes"),
-          label = "Include All"
-        )
-      )
-    ),
-    accordion(
-      open = FALSE,
-      multiple = FALSE,
-      accordion_panel(
         "Table of Ingredients and Conversions",
-        p("Note: Weights shown below are per 1 cup of ingredient."),
-        DTOutput(NS(id_,"full_table")),
+        p(
+          tags$span("Note: Weights shown below are"),
+          tags$span("per 1 cup", style="font-weight:bold"),
+          tags$span(" of ingredient. "),
+          tags$span(" Original conversions adapted from the King Arthur Baking"),
+          tags$a(href="https://www.kingarthurbaking.com/learn/ingredient-weight-chart", "website", noWS="after", target="_blank"),
+          tags$span(".")
+        ),
+        DTOutput("full_table")
       )
     ),
     br()
   )
 }
 
-modVolumeConversionServer <- function(id_, vol_conv_, ingredient_classes_){
+modVolumeConversionServer <- function(id_, vol_conv_, ingredient_tags_){
   moduleServer(
     id_,
     function(input, output, session){
 
-      selected_ingredient <- reactive(input$ingredient)
+      # this is the primary output of the application
+      observeEvent(
+        input$calc_weight,
+        handlerExpr = {
 
+          updateNumericInput(
+            inputId = "target_amt_in",
+            value = input$vol_amt_in * vol_to_vol_conversion() * selected_weight_of_1cup()
+          )
+        }
+      )
+
+      # this is an alternative use case of the application
+      observeEvent(
+        input$calc_vol,
+        handlerExpr = {
+
+          updateNumericInput(
+            inputId = "vol_amt_in",
+            value = input$target_amt_in / vol_to_vol_conversion() / selected_weight_of_1cup()
+          )
+        }
+      )
+
+      # collect input from UI and associated inputs
+      selected_ingredient <- reactive(input$ingredient)
+      selected_target_uom <- reactive(input$target_uom_in)
+      selected_default_vol_uom <- reactive({
+        vol_conv_[ingredient==selected_ingredient() & target_uom==selected_target_uom()]$default_vol_uom
+      })
+      selected_default_conv_factor <- reactive({
+        vol_conv_[ingredient==selected_ingredient() & target_uom==selected_target_uom()]$vol_conv_factor_to_cups
+      })
+      selected_weight_of_1cup <- reactive({
+        vol_conv_[ingredient==selected_ingredient() & target_uom==selected_target_uom()]$target_amt
+      })
+
+      # use Non-standard Evaluation to create a string of true tags and parse in the data.table
+      updated_ingredient_list <- reactive({
+
+        selected_tags <- paste0(input$tags, collapse = " | ")
+
+        selected_ingredients <- vol_conv_[eval(parse_expr(selected_tags))==TRUE]
+
+        selected_ingredients <- selected_ingredients[,.SD,.SDcols=c("ingredient")] |>
+          unlist() |>
+          unique() |>
+          sort()
+
+        return(selected_ingredients)
+
+      })
+
+      # update the ingredient list based on the tags selected
+      observeEvent(
+        input$tags,
+        handlerExpr = {
+          updateSelectInput(
+            inputId = "ingredient",
+            choices = updated_ingredient_list(),
+            selected = updated_ingredient_list()[1]
+          )
+        }
+      )
+
+      # deselect all tags. Note: An empty input here will not return any value so also need to remove
+      # the choices from the ingredient selector until the user selects a tag
+      observeEvent(
+        input$no_tags,
+        handlerExpr = {
+          updateCheckboxGroupInput(
+            session = session,
+            inputId = "tags",
+            selected = NA
+          )
+
+          updateSelectInput(
+            inputId = "ingredient",
+            choices = list(),
+            selected = NA_character_
+          )
+        }
+      )
+
+      # select all tags
+      observeEvent(
+        input$all_tags,
+        handlerExpr = {
+          updateCheckboxGroupInput(
+            session = session,
+            inputId = "tags",
+            selected = ingredient_tags_ |> unname()
+          )
+        }
+      )
+
+      # determine vol-to-vol conversion for default UOM in vol_conv
+      vol_to_vol_conversion <- reactive({
+        # 16 TBSP in a cup
+        # 3 TSP in a TBSP
+        if(input$vol_uom_in=="cup"){
+          1
+        } else if(input$vol_uom_in=="tablespoon"){
+          1/16
+        } else if(input$vol_uom_in=="teaspoon"){
+          1/16/3
+        } else {
+          stop(paste0("A conversion factor has not been established for a UOM of ",input$vol_uom_in))
+        }
+      })
+
+      # update the volume inputs based on the ingredient selected, depending on locks used
       observeEvent(
         input$ingredient,
         handlerExpr = {
+
+          if(!input$amt_locked) {
+            updateNumericInput(
+              inputId = "vol_amt_in",
+              value = vol_conv_[ingredient==selected_ingredient() & target_uom==selected_target_uom(),default_vol_amt] |> unlist()
+            )
+          } else {
+            # do nothing, so it is easier to investigate weights between similar types of ingredients
+          }
+
+          if(!input$uom_locked) {
+            updateSelectInput(
+              inputId = "vol_uom_in",
+              selected = vol_conv_[ingredient==selected_ingredient() & target_uom==selected_target_uom(),default_vol_uom] |> unlist()
+            )
+          } else {
+            # do nothing, so it is easier to investigate weights between similar types of ingredients
+          }
+
+        }
+      )
+
+      # reset the page
+      observeEvent(
+        input$reset_page,
+        handlerExpr = {
+
+          updateCheckboxGroupInput(
+            session = session,
+            inputId = "tags",
+            selected = ingredient_tags_ |> unname()
+          )
+
+          updateSelectInput(
+            inputId = "ingredient",
+            choices = updated_ingredient_list(),
+            selected = updated_ingredient_list()[1]
+          )
+
           updateNumericInput(
             inputId = "vol_amt_in",
-            value = as.numeric(vol_conv_[ingredient==selected_ingredient(),default_vol_amt] |> unlist())
+            value = NA_real_
+          )
+
+          updateCheckboxInput(
+            inputId = "amt_locked",
+            value = FALSE
           )
 
           updateSelectInput(
             inputId = "vol_uom_in",
-            selected = vol_conv_[ingredient==selected_ingredient(),default_vol_unit] |> unlist()
+            selected = NA_character_
           )
-        }
-      )
 
-      observeEvent(
-        input$reset_page,
-        handlerExpr = {
+          updateCheckboxInput(
+            inputId = "uom_locked",
+            value = FALSE
+          )
+
+          updateNumericInput(
+            inputId = "target_amt_in",
+            value = NA_real_
+          )
+
           updateSelectInput(
-            session = session,
-            inputId = "ingredient",
-            selected = NULL,
+            inputId = "target_uom_in",
+            selected = "gram"
           )
         }
       )
-
-      observeEvent(
-        input$no_classes,
-        handlerExpr = {
-          updateSelectInput(
-            session = session,
-            inputId = "ingred_classes",
-            selected = NULL,
-          )
-        }
-      )
-
-      observeEvent(
-        input$all_classes,
-        handlerExpr = {
-          updateSelectInput(
-            session = session,
-            inputId = "ingred_classes",
-            selected = ingredient_classes_ |> as.list(),
-          )
-        }
-      )
-
 
       # render full ingredient table
       output$full_table <- renderDT({
 
-        dt <- vol_conv_[,.(ingredient,target_uom,target_quantity)]
+        dt <- vol_conv_[,.(ingredient,target_uom,target_amt)]
         dt[,target_uom:=ifelse(target_uom=="gram","Grams","Ounces")]
-        dt[,target_quantity:=sprintf("%.3f",target_quantity)]
-        dt <- dcast(dt, ingredient ~ target_uom, value.var = "target_quantity")
+        dt[,target_amt:=sprintf("%.3f",target_amt)]
+        dt <- dcast(dt, ingredient ~ target_uom, value.var = "target_amt")
         setnames(dt, old = c("ingredient"), new = c("Ingredient"))
 
         DT::datatable(
@@ -191,112 +379,3 @@ modVolumeConversionServer <- function(id_, vol_conv_, ingredient_classes_){
     }
   )
 }
-
-
-# re <- reactive(
-#   if(is.null(input$regex_str) | input$regex_str==""){
-#     "."
-#   } else {
-#     str_to_upper(input$regex_str)
-#   }
-# )
-#
-# dt <- reactive({
-#
-#   # logger::log_info(re())
-#
-#   dt <- tryCatch(
-#     expr = {dt_words_[str_detect(Word, re())]},
-#     error = function(e){dt_words_[Word=="12345"]}
-#   )
-#
-#   if(!input$include_scrabble_dict){
-#     dt <- dt[(Date >= input$date_range[1] & Date <= input$date_range[2])]
-#   } else {
-#     dt <- dt[is.na(Date) | (Date >= input$date_range[1] & Date <= input$date_range[2])]
-#   }
-#
-#   if(input$include_scrabble_dict){
-#     dt
-#   } else {
-#     dt <- dt[!is.na(Date)]
-#     setorder(dt, -Index)
-#   }
-#
-#   if(input$check_dups){
-#     dt <- dt[duplicated(Word)]
-#   }
-#
-#   dt
-#
-# })
-#
-# output$word_list_table <- renderDT(
-#
-#   if(dim(dt())[1]==0L){
-#     data.table(" " = "There are no historical answers with the filtered parameters!")
-#   } else {
-#
-#     if("Date" %in% names(dt())){
-#       setnames(dt(), old = c("Date","Index"), new=c("Answer Date (YYYY-MM-DD)","Wordle Index"))
-#     }
-#
-#     DT::datatable(
-#       dt(),
-#       options = list(
-#         autoWidth=TRUE,
-#         pageLength=10,
-#         language = list(search = 'Normal Word Search:')
-#       )) |>
-#       formatStyle(columns = names(dt())[1], color = "#EDC001") |>
-#       formatStyle(columns = names(dt())[2], color = "#3BC143")
-#   }
-#
-# )
-#
-# output$letter_freq <- renderPlotly({
-#   letter_counts <- dt() |>
-#     unnest_tokens(char,Word,"characters") |>
-#     mutate(
-#       char = toupper(char),
-#       position = forcats::fct(
-#         rep(c("1st","2nd","3rd","4th","5th"), dim(dt())[1]),
-#         c("5th","4th","3rd","2nd","1st")
-#       )
-#     ) |>
-#     group_by(char, position) |>
-#     reframe(n = n())
-#
-#   if(dim(letter_counts)[1]>0){
-#     plot_ly(letter_counts, x = ~char, y = ~n, color = ~position, type = "bar") |>
-#       layout(
-#         barmode = "stack",
-#         yaxis = list(title = "Frequency of Occurance", color = "#CCCCCC"),
-#         xaxis = list(title = "Letters", color = "#CCCCCC"),
-#         legend = list(title = list(text="<b>Letter Position</b>", font = list(color="#CCCCCC")),
-#                       font = list(color="#CCCCCC")),
-#         paper_bgcolor = "#363636",
-#         plot_bgcolor = "#363636"
-#       )
-#   }
-#
-# })
-#
-#
-# observeEvent(
-#   input$year_filter,
-#   if(input$year_filter==""){
-#     updateDateRangeInput(
-#       inputId = "date_range",
-#       start = "2021-06-19",
-#       end = max_date_
-#     )
-#   } else {
-#     updateDateRangeInput(
-#       inputId = "date_range",
-#       start = paste0(input$year_filter,"-01-01"),
-#       end = paste0(input$year_filter,"-12-31")
-#     )
-#   }
-# )
-#
